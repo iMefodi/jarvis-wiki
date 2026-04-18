@@ -37,3 +37,24 @@
 - Новый Земельный кодекс CF 22/2024 — в силе с 07.03.2025
 - HG 201/2025 заменяет Инструкцию ARFC 112/2005 (с 16.05.2025)
 - Стандарты IVSC (SEV 100–233) — обязательны с 01.07.2025
+
+---
+
+## [2026-04-18] monitor | Modificări legislative detectate
+
+Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
+
+**Acte noi identificate (8):**
+- HG 94/2025 — Conceptul Atlasului Național al RM (geodezie)
+- HG 100/2025 — Conceptul SI „Registrul denumirilor geografice" (geodezie)
+- HG 118/2026 — Conceptul SNP + Regulament privind Sistemul Național de Poziționare (geodezie)
+- OAGCC 49/2025 — Modelul de evaluare loturi pomicole (evaluare)
+- OAGCC 77/2025 — Modelul de evaluare garaje și locuri de parcare (evaluare)
+- OAGCC 123/2025 — Instrucțiuni privind Rapoartele de evaluare imobiliară (evaluare)
+- HG 91/2026 — Programul INDS 2026–2030 (date spațiale)
+- HG 63/2026 — subiect neconfirmat, prezent în legis.md (de verificat)
+
+**Acte modificate:** niciuna detectată
+**Acte abrogate:** niciuna nouă față de wiki
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-04-18-modificari-legislative.md`
