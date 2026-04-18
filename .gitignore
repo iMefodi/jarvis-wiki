@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw assets (могут быть большими — добавляй вручную если нужно)
+raw/assets/*.png
+raw/assets/*.jpg
+raw/assets/*.jpeg
+raw/assets/*.tif
+raw/assets/*.tiff
+
+# Temp
+*.tmp
+*.bak
