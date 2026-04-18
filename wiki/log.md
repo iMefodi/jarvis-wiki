@@ -40,6 +40,18 @@
 
 ---
 
+## [2026-04-18] ingest | HG 63/2026 — delimitare proprietate publică 2026-2028
+
+- Creat: `wiki/sources/hg-63-2026-delimitare.md`
+- Actualizat: `wiki/sources/legislatia-cadastrului-index.md` (înlocuit ⚠️ cu datele corecte)
+- Actualizat: `wiki/concepts/fond-funciar.md` — proceduri noi delimitare masivă, plan de contur, termene
+- Actualizat: `wiki/index.md`
+- Fișier sursă: `raw/sources/hg-63-2026-delimitare.pdf`
+
+Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înlocuiește IP CBI în coordonare; plan de contur electronic cu KEP; aprobul tacit după 3 zile notificare; Capitolul IV³ pentru rectificarea hotarelor delimitate anterior.
+
+---
+
 ## [2026-04-18] ingest | Acte noi din monitorizare — 8 acte adăugate în wiki
 
 - Actualizat: `wiki/sources/legislatia-cadastrului-index.md`

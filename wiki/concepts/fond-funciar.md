@@ -44,7 +44,31 @@ Registrul de stat al unităților administrativ-teritoriale și al adreselor, re
 ## Proprietatea publică și delimitarea
 
 - LP 29/2018 — Legea privind delimitarea proprietății publice (stat vs. UAT)
-- HG 63/2019 — Regulamentul delimitării bunurilor imobile proprietate publică
+- HG 63/2019 — Regulamentul delimitării bunurilor imobile proprietate publică (**modificat semnificativ prin HG 63/2026**)
+- HG 80/2019 — Programul de stat de delimitare a bunurilor imobile (**extins până în 2028 prin HG 63/2026**)
+
+### Modificările HG 63/2026 (în vigoare din 26.02.2026)
+
+**Program extins:** 2019–2026 → **2019–2028**
+
+**Schimbare instituțională:** „IP Cadastrul Bunurilor Imobile" → **„Agenția Proprietății Publice"** în coordonarea comisiei de delimitare masivă.
+
+**Plan de contur** — document tehnic electronic nou (înlocuiește documentația anterioară):
+- Conținut: reprezentarea grafică + caracteristicile tehnice ale bunurilor delimitate
+- Format: GIS (MID/MIF sau TAB) + PDF
+- Semnat cu semnătură electronică calificată a inginerului cadastral certificat
+
+**Termene-cheie pentru delimitare masivă:**
+- 3 zile lucrătoare — executantul notifică Agenția Proprietății Publice la semnarea contractului
+- 7 zile lucrătoare — Agenția transmite componența comisiei de delimitare
+- 20 zile lucrătoare — autoritățile publice verifică planul de contur și transmit avizul consolidat
+- 3 zile — notificare repetată dacă avizul nu vine
+- Aviz netransmis după notificare repetată → **aprobat tacit**, caracteristicile rămân cele stabilite de executant
+- Obiecții persistente → AGCC organizează ședință de lucru în **5 zile lucrătoare**
+- „Zonă de litigiu" — mențiune pe planul de contur dacă coordonarea nu poate fi asigurată
+
+**Capitolul IV³ — Modificarea hotarelor terenurilor proprietate publică delimitate anterior:**
+Procedura pentru rectificarea suprapunerilor grafice sau golurilor la terenuri deja delimitate anterior, în cadrul Programului 2026–2028. Vezi detalii: [[../sources/hg-63-2026-delimitare]]
 
 ## Corectarea erorilor de atribuire a terenurilor
 

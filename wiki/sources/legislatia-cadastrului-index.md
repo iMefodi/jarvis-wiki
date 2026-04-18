@@ -111,7 +111,7 @@ Catalog sistematizat al legislației cadastrale din Republica Moldova: 7 categor
 | LP 103 / 2024 | Legea cu privire la denumirile geografice | **Nou 2024** |
 | HG 731 / 1997 | Regulamentul Fondului Național de Date Geospațiale (FNDG) | În vigoare |
 | HG 91 / 2026 | Programul de dezvoltare a INDS pentru anii 2026–2030 | **Nou 2026** |
-| HG 63 / 2026 | Subiect neconfirmat (legis.md doc_id=153152) — de verificat manual | ⚠️ De verificat |
+| HG 63 / 2026 | Modificarea hotărârilor privind delimitarea proprietății publice și Programul de stat 2026–2028 — modifică HG 1030/1998, HG 63/2019, HG 80/2019, HG 652/2023; introduce plan de contur electronic, extinde programul până în 2028 | **În vigoare 26.02.2026** |
 
 ## Surse oficiale
 
