@@ -38,6 +38,9 @@ Catalog sistematizat al legislației cadastrale din Republica Moldova: 7 categor
 | Ordin AGCC 59 / 2025 | Ghidul în evaluare: Evaluarea bunurilor imobile | **Nou 2025** |
 | HG 145 / 2025 | Conceptul SI „Registrul prețurilor bunurilor imobile" | **Nou 2025** |
 | HG 799 / 2024 | Regulamentul privind examinarea contestațiilor evaluării fiscale | În vigoare |
+| OAGCC 49 / 2025 | Modelul de evaluare a loturilor pomicole (cu/fără căsuțe de vacanță) din întovărășirile pomicole | **Nou 2025** |
+| OAGCC 77 / 2025 | Modelul de evaluare a garajelor individuale, CCG/APG și locurilor de parcare | **Nou 2025** |
+| OAGCC 123 / 2025 | Instrucțiuni privind prezentarea Rapoartelor de evaluare a bunurilor imobile | **Nou 2025** |
 
 ### 03 — Legislația funciară și sistemul de adrese
 
@@ -92,6 +95,9 @@ Catalog sistematizat al legislației cadastrale din Republica Moldova: 7 categor
 | Ordin ARFC 39 / 2015 | Modelul Cvasigeoidului RM (conversie înălțimi GPS → normale) | În vigoare |
 | HG 999 / 2006 | Sistemul de nomenclatură al hărților și planurilor topografice | În vigoare |
 | HG 29 / 1994 | Regulamentul privind protecția punctelor geodezice | În vigoare |
+| HG 94 / 2025 | Conceptul Atlasului Național al Republicii Moldova | **Nou 2025** |
+| HG 100 / 2025 | Conceptul SI „Registrul denumirilor geografice" | **Nou 2025** |
+| HG 118 / 2026 | Conceptul Sistemului Național de Poziționare (SNP) și Regulamentul de organizare și funcționare | **Nou 2026** |
 
 ### 07 — Infrastructura Națională de Date Spațiale (INSPIRE)
 
@@ -104,6 +110,8 @@ Catalog sistematizat al legislației cadastrale din Republica Moldova: 7 categor
 | HG 663 / 2023 | Geoportalul central INDS | În vigoare |
 | LP 103 / 2024 | Legea cu privire la denumirile geografice | **Nou 2024** |
 | HG 731 / 1997 | Regulamentul Fondului Național de Date Geospațiale (FNDG) | În vigoare |
+| HG 91 / 2026 | Programul de dezvoltare a INDS pentru anii 2026–2030 | **Nou 2026** |
+| HG 63 / 2026 | Subiect neconfirmat (legis.md doc_id=153152) — de verificat manual | ⚠️ De verificat |
 
 ## Surse oficiale
 

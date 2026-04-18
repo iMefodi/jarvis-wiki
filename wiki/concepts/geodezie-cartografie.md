@@ -47,6 +47,12 @@ Utilizat pentru conversia înălțimilor elipsoidale (GPS) în înălțimi norma
 
 **Nomenclatura foilor:** HG 999/2006 — sistemul de împărțire pe foi și nomenclatura hărților și planurilor topografice ale RM.
 
+## Atlasul Național și Sistemul Național de Poziționare
+
+- **HG 94/2025** — Conceptul Atlasului Național al Republicii Moldova
+- **HG 100/2025** — Conceptul SI „Registrul denumirilor geografice" (corelat cu LP 103/2024)
+- **HG 118/2026** — Conceptul Sistemului Național de Poziționare (SNP) și Regulamentul de funcționare; sistemul unificat de poziționare pentru RM, succesor al MOLDPOS
+
 ## Registrul lucrărilor topografo-geodezice
 
 **HG 118/2025** — Regulamentul privind ținerea Registrului de stat al lucrărilor topografo-geodezice (nou 2025). Ținut de [[../entities/agcc]].

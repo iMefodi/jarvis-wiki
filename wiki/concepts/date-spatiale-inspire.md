@@ -16,6 +16,7 @@ Cadrul național și european pentru colectarea, partajarea și utilizarea datel
 | HG 212/2022 | Geoportalul tematic AGCC (geodata.gov.md) |
 | LP 103/2024 | Legea cu privire la denumirile geografice (standardizare + Registrul denumirilor) |
 | HG 731/1997 | Regulamentul FNDG — Fondul Național de Date Geospațiale |
+| HG 91/2026 | Programul de dezvoltare a INDS pentru anii 2026–2030 | **Nou 2026** |
 
 ## Geoportaluri
 

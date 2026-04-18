@@ -41,6 +41,9 @@ Sistem informațional nou (HG 145/2025 — Conceptul SI). Gestionat de [[../enti
 | Ordin AGCC 59/2025 | Ghidul de evaluare a bunurilor imobile |
 | HG 145/2025 | Conceptul SI Registrul prețurilor |
 | HG 799/2024 | Procedura de contestare a evaluării fiscale |
+| OAGCC 49/2025 | Modelul de evaluare a loturilor pomicole din întovărășirile pomicole |
+| OAGCC 77/2025 | Modelul de evaluare a garajelor individuale, CCG/APG și locurilor de parcare |
+| OAGCC 123/2025 | Instrucțiuni privind prezentarea Rapoartelor de evaluare a bunurilor imobile |
 
 ## Certificarea evaluatorilor
 

@@ -40,6 +40,16 @@
 
 ---
 
+## [2026-04-18] ingest | Acte noi din monitorizare — 8 acte adăugate în wiki
+
+- Actualizat: `wiki/sources/legislatia-cadastrului-index.md`
+- Actualizat: `wiki/concepts/evaluare-bunuri-imobile.md` — OAGCC 49, 77, 123 / 2025
+- Actualizat: `wiki/concepts/geodezie-cartografie.md` — HG 94, 100/2025; HG 118/2026 (SNP)
+- Actualizat: `wiki/concepts/date-spatiale-inspire.md` — HG 91/2026 (INDS 2026–2030)
+- ⚠️ HG 63/2026 marcat ca „de verificat manual"
+
+---
+
 ## [2026-04-18] monitor | Modificări legislative detectate
 
 Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
