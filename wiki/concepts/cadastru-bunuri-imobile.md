@@ -48,9 +48,9 @@ Detalii complete: [[../sources/hg-201-2025-inscriere-rbi]]
 - Divizare, comasare, separare
 - Documentația cadastrală la formare
 
-**Înregistrare primară provizorie (Ordin ARFC 108/2016):**
-- Schema de amplasare (fără măsurători de precizie)
-- Utilizată pentru bunuri greu accesibile sau în litigiu
+**Înregistrare primară provizorie:**
+- Schema de amplasare (fără măsurători de precizie) — cf. art. 71.5 HG 201/2025 + art. 56¹ LP 1543/1998
+- ⚠️ Ordin ARFC 108/2016 ABROGAT prin OAGCC 117/2025 (în vigoare 05.01.2026); înlocuit de OAGCC 117/2025
 
 ## Acte normative cheie
 
@@ -61,7 +61,7 @@ Detalii complete: [[../sources/hg-201-2025-inscriere-rbi]]
 | Ordin ARFC 70/2017 | Lucrări cadastrale la terenuri |
 | Ordin ARFC 07/2015 | Lucrări cadastrale la clădiri |
 | Ordin ARFC 71/2017 | Documentația la formarea bunurilor |
-| Ordin ARFC 108/2016 | Înregistrare primară provizorie; schema de amplasare |
+| ~~Ordin ARFC 108/2016~~ | ABROGAT 05.01.2026; înlocuit de OAGCC 117/2025 |
 | Ordin ARFC 17/2021 | Clasificatorul terenurilor (destinație și folosință) |
 
 ## Clasificatorul destinațiilor terenurilor

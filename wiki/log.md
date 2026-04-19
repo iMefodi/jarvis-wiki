@@ -101,6 +101,19 @@ Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înloc
 
 ---
 
+## [2026-04-19] update | Ordin ARFC 108/2016 — marcat ABROGAT
+
+Ordin ARFC 108/2016 (schema de amplasare) **ABROGAT** prin OAGCC 117/2025, în vigoare 05.01.2026.
+
+**Actualizat:**
+- `wiki/entities/arfc.md` — mutat din „în vigoare" în secțiunea „abrogate"
+- `wiki/concepts/cadastru-bunuri-imobile.md` — referință actualizată; procedura de schema de amplasare rămâne reglementată de art. 71.5 HG 201/2025
+- `wiki/sources/legislatia-cadastrului-index.md` — stare actualizată
+
+⚠️ OAGCC 117/2025 (înlocuitor) — neingerat încă în wiki.
+
+---
+
 ## [2026-04-19] ingest | HG 201/2025 — Regulamentul privind înscrierea în RBI
 
 **Fișier sursă:** `raw/sources/hg-201-2025-inscriere-rbi.pdf` (redenumit din 152980.pdf)

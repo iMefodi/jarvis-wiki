@@ -76,7 +76,7 @@ Catalog sistematizat al legislației cadastrale din Republica Moldova: 7 categor
 | Ordin ARFC 70 / 2017 | Instrucțiunea: lucrări cadastrale la TEREN (delimitare, măsurători, planuri) | În vigoare |
 | Ordin ARFC 07 / 2015 | Instrucțiunea: lucrări cadastrale la CLĂDIRI și ÎNCĂPERI IZOLATE | În vigoare |
 | Ordin ARFC 71 / 2017 | Instrucțiunea: documentația cadastrală la FORMAREA bunurilor imobile | În vigoare |
-| Ordin ARFC 108 / 2016 | Schema de amplasare; înregistrarea primară provizorie; lucrări simplificate | În vigoare |
+| Ordin ARFC 108 / 2016 | Schema de amplasare; înregistrarea primară provizorie; lucrări simplificate | **ABROGAT** prin OAGCC 117/2025 (05.01.2026) |
 | Ordin ARFC 109 / 2016 | Instrucțiunea: stabilirea hotarelor UAT și intravilanului localității | În vigoare |
 | Ordin ARFC 17 / 19.05.2021 | Clasificatorul terenurilor după categoria de destinație și folosință | În vigoare |
 | Ordin ARFC 154 / 2016 | Atlasul de semne convenționale pentru planuri topografice (1:500–1:5000) | În vigoare |
