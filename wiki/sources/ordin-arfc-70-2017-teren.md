@@ -3,6 +3,7 @@
 **Tip:** instrucțiune tehnică
 **Emitent:** ARFC (acte în vigoare sub AGCC)
 **Data:** 2017
+**Modificat:** OAGCC 117/2025 (în vigoare 05.01.2026) — pct. 24 schema amplasare grădini; pct. 24¹ nou; pct. 99⁵–99⁷ surplus teren
 **Fișiere:** [[../../raw/sources/ORDIN Nr. 70/]] (16 fișiere .docx/.doc)
 
 ## Domeniu de aplicare

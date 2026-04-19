@@ -83,6 +83,13 @@ Procedură excepțională, valabilă până la **30 ianuarie 2028**, pentru case
 
 **Exclus de la procedură:** zone inundabile, zone protejate, zona de protecție a drumurilor/rețelelor (fără acorduri speciale).
 
+**Lucrarea cadastrală pentru art. 387 (din 05.01.2026):** Prin OAGCC 117/2025 → Cap. VI **Ordin 07/2015** reglementează „lucrările cadastrale primare simplificate":
+- Fără măsurare încăperi interioare (dacă nu se solicită)
+- Se execută: identificare bun, măsurători terestre (GNSS/stație totală), fișa rezultatelor (an. 24), plan geometric (an. 25)
+- Clădirea se marchează în plan geometric: **„Clădire neautorizată"**
+- An construcție: declarație proprietar; dacă necunoscut → ortoimagini 2007
+- Planul geometric coordonat de APL (primar + specialist regim funciar)
+
 ## Documentație de urbanism — tipuri
 
 | Tip | Nivel | Rol cadastral |

@@ -3,7 +3,8 @@
 **Tip:** instrucțiune tehnică
 **Emitent:** ARFC (acte în vigoare sub AGCC)
 **Data:** 2015
-**Fișiere:** [[../../raw/sources/ORDIN Nr. 07/]] (27 fișiere .docx/.doc/.pdf)
+**Modificat:** OAGCC 117/2025 (în vigoare 05.01.2026) — terminologie, Cap. VI nou (lucrări simplificate)
+**Fișiere:** [[../../raw/sources/ORDIN Nr. 07/]] (27 fișiere .docx/.doc/.doc)
 
 ## Domeniu de aplicare
 

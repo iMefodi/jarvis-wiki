@@ -3,6 +3,7 @@
 **Tip:** instrucțiune tehnică
 **Emitent:** ARFC (acte în vigoare sub AGCC)
 **Data:** 04.08.2017
+**Modificat:** OAGCC 117/2025 (în vigoare 05.01.2026) — PUG poate înlocui cert. urbanism; interdicție comasare inter-UAT; responsabili semnare actualizați
 **Fișiere:** [[../../raw/sources/ORDIN Nr. 71/]] (13 fișiere .doc)
 
 ## Domeniu de aplicare
@@ -110,6 +111,14 @@ Conține:
 - **Reparcelare** nu necesită nici certificat urbanism, nici transpunere separată (se face prin documentație urbanistică)
 - **Instanța de judecată** — procedura asemănătoare cu separarea (necesită transpunere în teren)
 - Certificatul de conferire a adresei: se cere la separare și comasare (+/-), nu se cere la reparcelare
+
+## Modificări prin OAGCC 117/2025 (în vigoare 05.01.2026)
+
+- **Certificat urbanism informativ**: dacă există **PUG aprobat și publicat pe web-ul APL** → certificatul **nu este obligatoriu**; se utilizează datele din PUG (cu indicarea referinței la PUG în studiu)
+- **Interdicție comasare inter-UAT**: interzisă comasarea terenurilor din UAT diferite sau cu categorii/moduri de folosință diferite
+- **Responsabili semnare — proprietate publică a statului**: persoana delegată de autoritatea împuternicită (separat de procedura pentru proprietate privată/UAT)
+- **Teren amplasat în mai multe UAT**: semnat de inginerii/arhitecții UAT-urilor corespunzătoare
+- **Raport lățime:lungime ≤ 1:5** la formarea terenurilor agricole (excepție: modurile de folosință art. 23 alin. 2 lit. b-n CF 22/2024)
 
 ## Entități legate
 

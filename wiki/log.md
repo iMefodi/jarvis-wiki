@@ -101,6 +101,30 @@ Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înloc
 
 ---
 
+## [2026-04-19] ingest | OAGCC 117/2025 — modificarea unor acte normative cadastrale
+
+**Fișier sursă:** `raw/sources/oagcc-117-2025-modificari.pdf` (redenumit din 151838.pdf)
+**Anexe:** `raw/sources/ORDIN Nr. 117/` (an. 9, 16a, 24, 25)
+
+**Creat:**
+- `wiki/sources/oagcc-117-2025-modificari.md` — analiza completă: modificări la Ordin 07, 71, 70; abrogare Ordin 108
+
+**Actualizat:**
+- `wiki/sources/ordin-arfc-07-2015-cladiri.md` — menționat modificat + Cap. VI nou
+- `wiki/sources/ordin-arfc-71-2017-formare.md` — secțiune nouă cu modificările OAGCC 117
+- `wiki/sources/ordin-arfc-70-2017-teren.md` — menționat modificat
+- `wiki/concepts/urbanism-constructii.md` — procedura lucrărilor simplificate art. 387 (din 05.01.2026)
+- `wiki/index.md`
+
+**Puncte cheie:**
+- Cap. VI Ordin 07 (nou): lucrări cadastrale simplificate pentru case neautorizate art. 387 CUC
+- Clădiri neautorizate se marchează „Clădire neautorizată" în planul geometric
+- PUG publicat pe web APL înlocuiește certificatul de urbanism informativ (Ordin 71)
+- Interdicție: comasarea terenurilor din UAT diferite
+- Ordin ARFC 108/2016 ABROGAT prin art. 4 al prezentului ordin
+
+---
+
 ## [2026-04-19] update | Ordin ARFC 108/2016 — marcat ABROGAT
 
 Ordin ARFC 108/2016 (schema de amplasare) **ABROGAT** prin OAGCC 117/2025, în vigoare 05.01.2026.
