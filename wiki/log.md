@@ -62,6 +62,24 @@ Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înloc
 
 ---
 
+## [2026-04-19] ingest | CUC 434/2023 — Codul Urbanismului și Construcțiilor
+
+**Fișier sursă:** `raw/sources/cuc-434-2023-urbanism-constructii.pdf`
+
+**Creat:**
+- `wiki/sources/cuc-434-2023.md` — analiză completă: autorizare, recepție, art. 387, ridicare topografică de execuție
+- `wiki/concepts/urbanism-constructii.md` — ciclul de viață al construcției, conexiunea cu cadastrul, termene-cheie
+
+**Actualizat:** `wiki/index.md`
+
+**Puncte cheie:**
+- Exploatarea construcției = posibilă numai după recepție + înregistrare la organul cadastral
+- Art. 387 alin. (4): înregistrare case neautorizate funcționale la 30.01.2024 — termen 30.01.2028
+- Art. 220 alin. (4): ridicare topografică de execuție pentru rețele edilitare → APL în 30 zile
+- LP334/29.01.2026: certificat de edificare gratuit dacă APL nu a stabilit taxă
+
+---
+
 ## [2026-04-18] monitor | Modificări legislative detectate
 
 Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
