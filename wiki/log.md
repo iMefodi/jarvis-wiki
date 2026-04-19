@@ -221,3 +221,21 @@ Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces dire
 **Acte abrogate:** niciuna nouă față de wiki
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-18-modificari-legislative.md`
+
+---
+
+## [2026-04-19] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-04-18 → 2026-04-19. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, mass-media.
+
+**Acte noi identificate (1, cu nr. final nepublicat):**
+- LP 147-MIDR-2026 — Lege prelungire termen privatizare locuințe de stat: 31.05.2026 → 31.05.2029; abrogă norma LP 187/2022 privind numărul cadastral separat al camerelor izolate; adoptat de Parlament ~08–12.04.2026, promulgare în așteptare
+
+**Procese în derulare cu impact cadastral:**
+- Consultări publice reevaluare masivă 6 milioane bunuri imobile — termen 30.04.2026 (geodata.gov.md); contestații la OCT 90 zile; valori noi în vigoare 01.01.2027
+- Aerofotografiere teritoriu RM (AGCC) — 20.03–30.04.2026, actualizare ortoimagini
+
+**Acte modificate:** niciuna detectată
+**Acte abrogate:** niciuna nouă față de sesiunea precedentă
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-04-19-modificari-legislative.md`
