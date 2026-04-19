@@ -159,6 +159,34 @@ Ordin ARFC 108/2016 (schema de amplasare) **ABROGAT** prin OAGCC 117/2025, în v
 
 ---
 
+## [2026-04-19] ingest | LP 1543/1998 · OARFC 17/2021 · LP 187/2022 · HG 43/2026
+
+**Fișiere sursă:**
+- `raw/sources/lp-1543-1998-cadastru.pdf` (redenumit din 150224.pdf)
+- `raw/sources/oarfc-17-2021-clasificator-terenuri.pdf` + `raw/sources/OARFC17 2021/clasifcatorul terenurilor_17-md.doc` (redenumit din 131277.pdf)
+- `raw/sources/lp-187-2022-condominiu.pdf` (redenumit din 148246.pdf)
+- `raw/sources/hg-43-2026-modificari-cadastru.pdf` (redenumit din 152961.pdf)
+
+**Creat:**
+- `wiki/sources/lp-1543-1998-cadastru.md` — legea-cadru: definiții, 11 tipuri lucrări (LP176/2025), executanți, registrator, transparența datelor
+- `wiki/sources/oarfc-17-2021-clasificator-terenuri.md` — clasificator complet: 6 categorii, 50+ coduri de destinație și folosință
+- `wiki/sources/lp-187-2022-condominiu.md` — condominiu: cot-parte, asociație proprietari, conexiunea cu RBI
+- `wiki/sources/hg-43-2026-modificari-cadastru.md` — acte modificate: HG 201/2025 (nomenclator + parafa + 167.3.7), HG 437/2019, HG 1518/2003, HG 130/2025
+
+**Actualizat:**
+- `wiki/concepts/cadastru-bunuri-imobile.md` — adăugate 11 tipuri de lucrări (LP176/2025) + surse noi
+- `wiki/concepts/fond-funciar.md` — referință la clasificatorul OARFC 17
+- `wiki/index.md`
+
+**Puncte cheie:**
+- LP 1543/1998 art. 14 (LP176/2025): 11 tipuri de lucrări cadastrale enumerate explicit; recepția = obligatorie, efectuată de IP CBI
+- LP 1543/1998 art. 15 (LP176/2025): executanții = entități juridice cu cel puțin 1 inginer cadastral certificat; răspunderea = inginerul cadastral
+- OARFC 17/2021: 6 categorii × 50+ moduri de folosință cu cod unic; utilizat la întocmirea documentației cadastrale
+- LP 187/2022: cot-parte = suprafața unității / suma tuturor unităților; calcul cote-părți = lucrare cadastrală (art. 14 lit. j LP 1543)
+- HG 43/2026 (12.03.2026): nomenclatorul clădirilor + poziția 16 „Clădire auxiliară"; nomenclatorul terenurilor + 4.7 „Garaje"; extrase gratuite limitate la 1/an/persoană; IP CBI preia Registrul adreselor de la ASP
+
+---
+
 ## [2026-04-18] monitor | Modificări legislative detectate
 
 Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.

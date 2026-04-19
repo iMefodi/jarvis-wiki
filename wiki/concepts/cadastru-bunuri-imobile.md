@@ -52,6 +52,10 @@ Detalii complete: [[../sources/hg-201-2025-inscriere-rbi]]
 - Schema de amplasare (fără măsurători de precizie) — cf. art. 71.5 HG 201/2025 + art. 56¹ LP 1543/1998
 - ⚠️ Ordin ARFC 108/2016 ABROGAT prin OAGCC 117/2025 (în vigoare 05.01.2026); înlocuit de OAGCC 117/2025
 
+## Tipurile de lucrări cadastrale (LP 1543/1998 art. 14, redacția LP176/2025)
+
+a) stabilirea/modificarea hotarelor UAT · b) documentație înregistrare primară teren · c) modificare hotare terenuri · d) construcții (executare/desființare/modernizare/transformare) · e) formarea bunului imobil · f) plan de folosire (proprietate comună) · g) plan cu parte pentru grevare · h) proiect organizare teritoriu · i) identificare bun imobil · j) calculare cote-părți în condominiu · k) restabilire/transpunere coordonate în teren
+
 ## Acte normative cheie
 
 | Act | Conținut |
@@ -86,5 +90,7 @@ LP 187/2022 — reglementează condominiile: înregistrarea separată a apartame
 
 ## Surse
 
-- [[../sources/hg-201-2025-inscriere-rbi]]
+- [[../sources/lp-1543-1998-cadastru]] — legea-cadru, definiții, tipuri de lucrări, executanți
+- [[../sources/hg-201-2025-inscriere-rbi]] — regulamentul de înscriere în RBI
+- [[../sources/hg-43-2026-modificari-cadastru]] — nomenclator actualizat (clădire auxiliară, teren garaje)
 - [[../sources/legislatia-cadastrului-index]]

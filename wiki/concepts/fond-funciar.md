@@ -92,4 +92,5 @@ LP 354/2004 — Legea cu privire la formarea bunurilor imobile:
 
 ## Surse
 
+- [[../sources/oarfc-17-2021-clasificator-terenuri]] — clasificatorul complet cu toate codurile de destinație și folosință
 - [[../sources/legislatia-cadastrului-index]]
