@@ -187,6 +187,22 @@ Ordin ARFC 108/2016 (schema de amplasare) **ABROGAT** prin OAGCC 117/2025, în v
 
 ---
 
+## [2026-04-19] update | Entități noi + pagini de synthesis
+
+**Entități create:**
+- `wiki/entities/oct.md` — OCT: Oficiul Cadastral Teritorial, structura teritorială IP CBI; registrator-șef; competență teritorială
+- `wiki/entities/pdse.md` — PDSE: platforma electronică a notarilor pentru depunerea cererilor în RBI (obligatorie HG 201/2025 art. 35)
+- `wiki/entities/inst.md` — INST: Inspectoratul Național pentru Supraveghere Tehnică; recepție construcții; Registrul de stat CUC art. 10
+
+**Synthesis create:**
+- `wiki/synthesis/inregistrare-casa-noua.md` — flux complet: autorizare CUC → recepție → lucrare cadastrală Ordin 07 → înregistrare RBI HG 201
+- `wiki/synthesis/inregistrare-casa-neautorizata-art387.md` — procedura excepțională art. 387 CUC; lucrare simplificată Cap. VI Ordin 07; notare permanentă RBI; termen 30.01.2028
+- `wiki/synthesis/formarea-bunurilor-imobile-alegerea-caii.md` — tabel decizie 5 căi; documente per cale; cine semnează (Ordin 71 + OAGCC 117)
+
+**Actualizat:** `wiki/index.md`
+
+---
+
 ## [2026-04-18] monitor | Modificări legislative detectate
 
 Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
