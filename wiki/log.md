@@ -62,6 +62,27 @@ Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înloc
 
 ---
 
+## [2026-04-19] ingest | Ordine ARFC 70/07/71 — instrucțiuni tehnice cadastrale + anexe
+
+**Fișiere sursă:**
+- `raw/sources/ORDIN Nr. 70/` — 16 fișiere (lucrări la teren)
+- `raw/sources/ORDIN Nr. 07/` — 27 fișiere (lucrări la clădiri)
+- `raw/sources/ORDIN Nr. 71/` — 13 fișiere (formarea bunurilor imobile)
+
+**Creat:**
+- `wiki/sources/ordin-arfc-70-2017-teren.md` — aviz vecini, act restabilire/transpunere hotare, act plantații perene, act limită parte din teren
+- `wiki/sources/ordin-arfc-07-2015-cladiri.md` — schiță teren/clădire/încăpere, fișă tehnică, calcul uzură (formulă), certificat inspecție
+- `wiki/sources/ordin-arfc-71-2017-formare.md` — toate 5 căi de formare, tabel documente obligatorii per cale, cine semnează (agricol vs. construcții)
+
+**Actualizat:** `wiki/index.md`
+
+**Puncte cheie:**
+- Ordin 70: transpunere/restabilire = GNSS/taheometru + borne; aviz vecini cu recipisă
+- Ordin 07: uzura se calculează formulă element cu element; certificatul de inspecție = baza înregistrării în RBI
+- Ordin 71: tabel documente — separare necesită transpunere în teren, divizare nu; reparcelare = prin documentație urbanistică; agricultur → inginer funciar primărie; construcții → arhitect-șef
+
+---
+
 ## [2026-04-19] ingest | CUC 434/2023 — Codul Urbanismului și Construcțiilor
 
 **Fișier sursă:** `raw/sources/cuc-434-2023-urbanism-constructii.pdf`
