@@ -101,6 +101,27 @@ Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înloc
 
 ---
 
+## [2026-04-19] ingest | HG 201/2025 — Regulamentul privind înscrierea în RBI
+
+**Fișier sursă:** `raw/sources/hg-201-2025-inscriere-rbi.pdf` (redenumit din 152980.pdf)
+**Anexe:** `raw/sources/HOTARARE Nr. 201/` (an. 1 — structura RBI, an. 4 — nomenclator)
+
+**Creat:**
+- `wiki/sources/hg-201-2025-inscriere-rbi.md` — regulamentul complet: structura RBI (cap. A/B/C, subcap. I/II/III), procedura, termen 10 zile, 14 temeiuri de respingere, înregistrare provizorie, nomenclator 16 tipuri clădiri
+
+**Actualizat:**
+- `wiki/concepts/cadastru-bunuri-imobile.md` — procedura de înregistrare detaliată (HG 201 art. 25, 35, 40)
+- `wiki/index.md`
+
+**Puncte cheie:**
+- Înlocuiește Instrucțiunea ARFC 112/2005 (din 16.05.2025)
+- Termen examinare: ≤ 10 zile lucrătoare, prelungire max 40 zile
+- Notarul OBLIGAT să depună cererea electronic prin PDSE
+- Înregistrare primară necesită plan geometric recepționat
+- Nomenclator: 16 tipuri clădiri, 7 categorii terenuri (Anexa 4)
+
+---
+
 ## [2026-04-18] monitor | Modificări legislative detectate
 
 Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.

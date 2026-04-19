@@ -12,13 +12,25 @@ Tipuri de drepturi înscrise: drept de proprietate, uzufruct, uz, abitație, ser
 
 ## Procedura de înregistrare
 
-**Baza legală principală (din 16.05.2025):** HG 201/2025 — Regulamentul privind înscrierea în RBI.
-*Anterior (până la 16.05.2025):* Instrucțiunea ARFC 112/2005 (abrogată prin Ordin AGCC 52/2025).
+**Baza legală principală (din 16.05.2025):** HG 201/2025 — Regulamentul privind înscrierea în RBI (modificat prin HG 43/2026, în vigoare 12.03.2026).
+*Anterior (până la 16.05.2025):* Instrucțiunea ARFC 112/2005 (abrogată).
 
 Fluxul standard:
 1. Inginerul cadastral execută lucrările cadastrale (măsurători, documentație)
 2. Documentația se depune la [[../entities/ip-cbi]]
-3. IP CBI verifică și efectuează înscrierea în RBI
+3. Registratorul OCT verifică și efectuează înscrierea în RBI
+
+**Termen examinare (HG 201 art. 40):** ≤ 10 zile lucrătoare; prelungire max 40 zile dacă sunt necesare documente suplimentare.
+
+**Condiție înregistrare primară (art. 25):** planul geometric recepționat conform procedurii.
+
+**Depunere notarială obligatorie (art. 35):** notarul care autentifică contractul translativ sau de ipotecă ESTE OBLIGAT să depună cererea electronic prin PDSE.
+
+**Structura RBI:** Cap. A+B (teren+construcții) și Cap. C (încăperi izolate); fiecare cu Subcap. I (date bun), II (proprietate), III (alte drepturi/grevări).
+
+**Nomenclatorul clădirilor (Anexa 4 HG 201/2025):** 16 tipuri de clădiri (casă individuală, bloc locativ, clădire publică, comercială, industrială, garaj, bun viitor, clădire nefinalizată etc.); 2 destinații de încăpere izolată (locativă/nelocativă).
+
+Detalii complete: [[../sources/hg-201-2025-inscriere-rbi]]
 
 ## Tipuri de lucrări cadastrale
 
@@ -74,4 +86,5 @@ LP 187/2022 — reglementează condominiile: înregistrarea separată a apartame
 
 ## Surse
 
+- [[../sources/hg-201-2025-inscriere-rbi]]
 - [[../sources/legislatia-cadastrului-index]]
