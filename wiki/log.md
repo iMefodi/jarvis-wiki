@@ -239,3 +239,16 @@ Perioadă acoperită: 2026-04-18 → 2026-04-19. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna nouă față de sesiunea precedentă
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-19-modificari-legislative.md`
+
+---
+
+## [2026-04-20] monitor | Fără modificări legislative
+
+Perioadă acoperită: 2026-04-19 → 2026-04-20. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe agcc.gov.md, legis.md, monitorul.gov.md, gov.md, mass-media.
+
+Nu au fost identificate acte normative noi, modificate sau abrogate față de sesiunea precedentă în domeniile geodezie, cartografie, cadastru, evaluare bunuri imobile și date spațiale.
+
+**Situație în curs (neschimbată față de 2026-04-19):**
+- LP 147-MIDR-2026 — Lege privatizare locuințe: votat în prima lectură (08.04.2026), a doua lectură și promulgarea în așteptare
+- Consultări publice reevaluare masivă bunuri imobile — termen 30.04.2026 (geodata.gov.md)
+- Aerofotografiere teritoriu RM (AGCC) — în derulare până 30.04.2026
