@@ -242,13 +242,19 @@ Raport detaliat: `wiki/synthesis/monitoring/2026-04-19-modificari-legislative.md
 
 ---
 
-## [2026-04-20] monitor | Fără modificări legislative
+## [2026-04-20] monitor | Modificări legislative detectate
 
-Perioadă acoperită: 2026-04-19 → 2026-04-20. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe agcc.gov.md, legis.md, monitorul.gov.md, gov.md, mass-media.
+Perioadă acoperită: 2026-04-19 → 2026-04-20. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, ipcbi.gov.md, mass-media.
 
-Nu au fost identificate acte normative noi, modificate sau abrogate față de sesiunea precedentă în domeniile geodezie, cartografie, cadastru, evaluare bunuri imobile și date spațiale.
+**Acte noi identificate (2 proiecte în faza parlamentară):**
+- 200-MIDR-2026 — Program de stat pentru înregistrarea ~12.580 blocuri locative ca condominii (2026–2028); 15,85 mln. lei; elaborat de MIDR + AGCC + IP CBI; transmis Parlamentului
+- 83-MIDR-2026 — Proiect de lege modificare CUC 434/2023: facilitarea înregistrării construcțiilor, eliminarea restricțiilor temporale, asimilarea căsuțelor pomicole la case individuale (art. 387)
 
-**Situație în curs (neschimbată față de 2026-04-19):**
-- LP 147-MIDR-2026 — Lege privatizare locuințe: votat în prima lectură (08.04.2026), a doua lectură și promulgarea în așteptare
-- Consultări publice reevaluare masivă bunuri imobile — termen 30.04.2026 (geodata.gov.md)
-- Aerofotografiere teritoriu RM (AGCC) — în derulare până 30.04.2026
+**Termen critic confirmat:**
+- 30.04.2026 (mâine): Consultări publice reevaluare masivă 6 mln. bunuri imobile + finalizare aerofotografiere AGCC
+- 31.05.2026: Termen LP 187/2022 — drept înregistrare cameră izolată cu nr. cadastral distinct (statut abrogare prin LP 147 neconfirmat)
+
+**Acte modificate:** niciuna nou detectată față de sesiunea precedentă
+**Acte abrogate:** niciuna nou detectată
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-04-20-modificari-legislative.md`
