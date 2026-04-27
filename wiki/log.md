@@ -258,3 +258,22 @@ Perioadă acoperită: 2026-04-19 → 2026-04-20. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna nou detectată
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-20-modificari-legislative.md`
+
+---
+
+## [2026-04-27] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-04-20 → 2026-04-27. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, mass-media moldovenească.
+
+**Acte noi adoptate (1):**
+- Lege amalgamare voluntară UAT (adoptată Parlament 24.04.2026, nr. oficial nepublicat) — elimină limita 25 km, reduce birocrația, simplifică alegerea centrului administrativ; impact cadastral: actualizare RSUATA + RBI, redelimitare hotare UAT, 298 comunități în proces
+
+**Procese critice în derulare:**
+- Consultări publice reevaluare 6 mln bunuri imobile — termen 30.04.2026 (expiră în 3 zile); validare modele oct. 2026; valori noi în vigoare 01.01.2027
+- Aerofotografiere AGCC finalizată 30.04.2026 — ortoimagini actualizate, nepublicate încă
+- LP 147-MIDR-2026 (privatizare locuințe, promulgare în așteptare); 200-MIDR-2026 (condominii); 83-MIDR-2026 (CUC 434) — în faze parlamentare
+
+**Acte modificate:** niciuna detectată
+**Acte abrogate:** niciuna detectată
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-04-27-modificari-legislative.md`
