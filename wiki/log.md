@@ -298,3 +298,20 @@ Perioadă acoperită: 2026-04-27 → 2026-05-11. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna confirmată
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`
+
+---
+
+## [2026-05-11] monitor | Modificări legislative detectate — sesiunea 2 (actualizare raport)
+
+Sesiune suplimentară de monitorizare; acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe parlament.md, moldpres.md, okeyimobil.md, news-pravda.com, particip.gov.md.
+
+**Act nou identificat față de sesiunea 1:**
+- **LP 40/2026** — Legea privind activitatea agenților imobiliari: adoptată 26.03.2026, publicată în MO, intrare în vigoare 23.01.2027; creează Registrul agenților imobiliari integrat în SI AGCC; absent din wiki și din sesiunile anterioare de monitorizare
+
+**Identificator proiect confirmat:**
+- 189-CS-2026 = numărul de proiect al Legii simplificării amalgamării UAT (adoptată 24.04.2026; nr. de lege promulgat neconfirmat)
+
+**Acte modificate:** niciuna nouă
+**Acte abrogate:** niciuna nouă
+
+Raport actualizat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`

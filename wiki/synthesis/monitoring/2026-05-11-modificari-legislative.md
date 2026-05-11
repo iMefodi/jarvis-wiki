@@ -6,7 +6,34 @@
 
 ## Acte noi identificate
 
-### 1. Faza 2 reevaluare masivă — spații comerciale și industriale (din 01.05.2026)
+### 1. LP 40/2026 — Legea privind activitatea agenților imobiliari *(nou identificat — sesiunea 2)*
+
+**Număr oficial:** Legea nr. 40, adoptată de Parlament la 26.03.2026
+**Publicare:** Monitorul Oficial al Republicii Moldova (publicată după adoptare)
+**Intrare în vigoare:** 23.01.2027 (9 luni vacatio legis)
+**Stadiu wiki anterior:** **Neînregistrat** — act absent din `legislatia-cadastrului-index.md` și din toate sesiunile de monitorizare anterioare
+
+**Prevederi principale:**
+- Certificate obligatorii de competență profesională pentru agenți imobiliari (emise de instituții acreditate, reînnoite la 5 ani)
+- Contracte scrise obligatorii agent–client cu drepturi și obligații specificate
+- Interdicție practici comerciale incorecte (publicitate înșelătoare, comisioane ascunse)
+- Crearea unui **Registru public al agenților imobiliari** integrat în sistemul informațional al **AGCC** (modul dedicat)
+- Sancțiuni: până la 15.000 lei persoane fizice, 30.000 lei persoane juridice pentru activitate fără licență sau încălcarea contractului
+
+**Conexiune AGCC/cadastru:**
+- Legea creează explicit un modul „Agenți imobiliari" în sistemul informațional al AGCC
+- Probabil să fie publicată pe agcc.gov.md/content/legislatia în secțiunea **Cadastru** sau **Evaluare**
+- Interacțiune cu RBI la verificarea drepturilor de proprietate în tranzacții imobiliare
+
+**Surse:**
+- [Pravda Moldova — Certificatele agenților imobiliari vor deveni obligatorii](https://md.news-pravda.com/moldova/2026/04/27/222450.html)
+- [O'Key Imobil — Legea publicată în MO](https://okeyimobil.md/blog/legea-agentilor-imobiliari-monitorul-oficial-2026)
+- [Parlament.md — Activitatea agenților imobiliari reglementată](https://www.parlament.md/ns-newsarticle-Activitatea-agenilor-imobiliari-reglementat-printro-nou-lege-adoptat-de-Parlament.nspx)
+- [Moldpres — Agenții imobiliari vor fi obligați să dețină certificat](https://www.moldpres.md/rom/societate/doc-agentii-imobiliari-vor-fi-obligati-sa-detina-un-certificat-de-competenta-profesionala-noile-modificari-legislative-publicate-in-monitorul-oficial)
+
+---
+
+### 2. Faza 2 reevaluare masivă — spații comerciale și industriale (din 01.05.2026)
 
 **Stadiu:** Operațional; fără act normativ nou separat identificat — se desfășoară în temeiul HG 827/2020 și Ordin AGCC 21/2025 (SEV 100–233).
 **Inițiatori:** AGCC + IP CBI
@@ -51,9 +78,10 @@
 - [Europa Liberă Moldova — Parlamentul extinde termenul](https://moldova.europalibera.org/a/parlamentul-extinde-termenul-de-privatizare-a-locuintelor-cu-inca-doi-ani/32972142.html)
 - [Ecoul Nordului — 24.04.2026](https://ecoul.md/2026/04/24/termenul-de-privatizare-a-fost-extins-pana-in-2029-iar-buteliile-de-gaz-vor-fi-interzise-in-blocuri/)
 
-### B. Lege simplificare amalgamare UAT (adoptată 24.04.2026 — promulgare neconfirmată oficial)
+### B. LP 189-CS-2026 — Lege simplificare amalgamare UAT (adoptată 24.04.2026 — promulgare neconfirmată oficial)
 
-**Stadiu la 11.05.2026:** Adoptată de Parlament la 24.04.2026; promulgare în curs. Numărul oficial nepublicat la data prezentului raport (cf. sesiunii anterioare).
+**Număr proiect confirmat:** 189-CS-2026 (cf. particip.gov.md)
+**Stadiu la 11.05.2026:** Adoptată de Parlament la 24.04.2026; promulgare în curs. Numărul de lege promulgat și data publicării în Monitorul Oficial **neconfirmate** la data prezentului raport.
 
 **Prevederi principale (reamintire):**
 - Elimină limita de 25 km dintre localitățile care fuzionează voluntar
