@@ -277,3 +277,24 @@ Perioadă acoperită: 2026-04-20 → 2026-04-27. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna detectată
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-27-modificari-legislative.md`
+
+---
+
+## [2026-05-11] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-04-27 → 2026-05-11. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, mass-media moldovenească.
+
+**Procese operaționale noi (fără act normativ separat):**
+- Faza 2 reevaluare masivă imobiliară (comerciale/industriale) — lansată 01.05.2026 de AGCC + IP CBI; consultări publice pe geodata.gov.md până la 31.07.2026; 6.436 cereri în faza 1 (rezidențiale)
+
+**Acte legislative în curs de promulgare (neconfirmate oficial):**
+- LP 147-MIDR-2026 — Prelungire privatizare locuințe 31.05.2026 → 31.05.2029; interdicție butelii gaz în blocuri; adoptat Parlament ~24.04.2026; nr. oficial neconfirmat la 11.05.2026
+- Lege amalgamare UAT — simplificare voluntară, adoptată 24.04.2026; nr. oficial neconfirmat
+- Modificare LP 187/2022 condominii (200-MIDR-2026) — praguri noi semnături asociații proprietari; stadiu parlamentar incert
+
+**Termene critice imediate:** 31.05.2026 (privatizare + camere izolate LP 187/2022); 31.07.2026 (reevaluare comerciala); 01.01.2027 (valori cadastrale noi)
+
+**Acte modificate:** niciuna confirmată
+**Acte abrogate:** niciuna confirmată
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`
