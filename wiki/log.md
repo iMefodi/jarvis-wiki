@@ -315,3 +315,22 @@ Sesiune suplimentară de monitorizare; acces direct agcc.gov.md blocat (HTTP 403
 **Acte abrogate:** niciuna nouă
 
 Raport actualizat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`
+
+---
+
+## [2026-05-18] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-05-11 → 2026-05-18. Acces direct agcc.gov.md, monitorul.gov.md, gov.md blocat (HTTP 403); surse: WebSearch pe moldpres.md, news.yam.md, ziar.md, okeyimobil.md, presedinte.md (indirecte).
+
+**Acte noi identificate (2):**
+- **LP 147/2026** (Decret 603-X, 07.05.2026) — Lege ajustare cadru normativ locuințe: privatizare extinsă 31.05.2026 → 31.05.2029; interdicție butelii gaz în blocuri; **abrogă art. 88 alin. (7) LP 187/2022 condominiu** — elimină termenul 31.05.2026 pentru înregistrare cameră izolată cu nr. cadastral distinct
+- **OAGCC Ordin 42/2026 (29.04.2026)** — Modelul de evaluare imobile comerciale/industriale + terenuri aferente (Faza 2 reevaluare masivă); consultare publică 01.05–31.07.2026 pe geodata.gov.md
+
+**Procese operaționale noi:**
+- Faza 2 reevaluare masivă (comerciale/industriale) — lansată 01.05.2026; termen consultare 31.07.2026; valori finale: 01.01.2027
+- Aerocartografiere AGCC prelungită până în iunie 2026 (anterior: 30.04.2026; motiv: condiții meteo)
+
+**Acte modificate:** LP 187/2022 art. 88 alin. (7) — abrogat prin LP 147/2026
+**Acte abrogate:** niciun act tehnic cadastral
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-05-18-modificari-legislative.md`
