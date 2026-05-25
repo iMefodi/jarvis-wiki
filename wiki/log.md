@@ -334,3 +334,24 @@ Perioadă acoperită: 2026-05-11 → 2026-05-18. Acces direct agcc.gov.md, monit
 **Acte abrogate:** niciun act tehnic cadastral
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-18-modificari-legislative.md`
+
+---
+
+## [2026-05-25] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-05-18 → 2026-05-25. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe presedinte.md, moldpres.md, moldova1.md, particip.gov.md, logos-pres.md.
+
+**Acte noi identificate (1):**
+- **Lege modificare LP 187/2022 condominiu** (Decret prezidențial nr. 612-X, **14.05.2026**) — proiect 200-MIDR-2026; adoptată de Parlament (65 voturi); introduce praguri noi de vot pentru APC (½ sau ¼ din proprietari); nr. oficial al legii neconfirmat
+
+**Acte modificate (1):**
+- **LP 187/2022** — a doua modificare în mai 2026 (prima: LP 147/2026 privind camerele izolate; a doua: prezenta lege privind regulile de vot APC)
+
+**Acte abrogate:** niciun act tehnic cadastral nou
+
+**Procese în derulare:**
+- Aerocartografiere AGCC prelungită până în iunie 2026
+- Reevaluare masivă imobile comerciale/industriale — consultări până la 31.07.2026
+- Lege amalgamare UAT (189-CS-2026) — confirmată publicată în MO
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-05-25-modificari-legislative.md`
