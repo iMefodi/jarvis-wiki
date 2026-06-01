@@ -373,6 +373,7 @@ Perioadă acoperită: 2026-05-25 → 2026-06-01. Acces direct agcc.gov.md, monit
 **Procese în derulare:**
 - Faza 2 reevaluare masivă (comerciale/industriale) — consultare 01.05–31.07.2026 (OAGCC 42/2026)
 - Aerocartografiere AGCC prelungită până în iunie 2026
+- Lege amalgamare voluntară UAT (189-CS-2026) — publicată **MO Nr. 269 din 27.05.2026**, în vigoare 27.05.2026
 
 **Acte modificate:** niciuna nouă față de sesiunea precedentă
 **Acte abrogate:** niciuna nouă

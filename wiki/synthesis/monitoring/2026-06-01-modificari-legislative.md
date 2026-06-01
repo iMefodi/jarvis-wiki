@@ -60,7 +60,8 @@ Termenul **31 mai 2026** pentru înregistrarea camerelor izolate cu număr cadas
 
 ### Amalgamare voluntară UAT (Legea 189-CS-2026)
 
-- Legea a fost confirmată publicată în Monitorul Oficial (sesiunea anterioară)
+- **Publicare MO:** **Nr. 269 din 27.05.2026** (publicată după sesiunea de monitorizare din 25.05.2026)
+- **Intrare în vigoare:** 27.05.2026 (la data publicării)
 - **Impact cadastral activ:** actualizare RSUATA + hotare UAT; 298 comunități în proces de amalgamare
 - **Termen evaluare:** sfârșitul lui 2026
 - **Termene critice:** redelimitări de hotare vor genera lucrări cadastrale și actualizări în RBI
