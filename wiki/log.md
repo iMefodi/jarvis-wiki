@@ -355,3 +355,26 @@ Perioadă acoperită: 2026-05-18 → 2026-05-25. Acces direct agcc.gov.md blocat
 - Lege amalgamare UAT (189-CS-2026) — confirmată publicată în MO
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-25-modificari-legislative.md`
+
+---
+
+## [2026-06-01] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-05-25 → 2026-06-01. Acces direct agcc.gov.md, monitorul.gov.md, legis.md blocat (HTTP 403); surse: WebSearch pe moldpres.md, ziar.md, telegraph.md, tv8.md, news.yam.md, okeyimobil.md, gov.md.
+
+**Acte noi identificate:** niciun act nou publicat în această perioadă identificat.
+
+**Actualizări de statut:**
+- **LP 70/2026** (30.04.2026, MO 21.05.2026) — număr oficial confirmat pentru legea de modificare LP 187/2022 condominiu (praguri vot APC); sesiunile anterioare o înregistrau fără număr.
+
+**Termen expirat cu impact cadastral:**
+- **31.05.2026** — termen înregistrare camere izolate cu nr. cadastral distinct (LP 187/2022 art. 88 alin. (7), abrogat prin LP 147/2026); expirat fără impact practic datorită abrogării anterioare.
+
+**Procese în derulare:**
+- Faza 2 reevaluare masivă (comerciale/industriale) — consultare 01.05–31.07.2026 (OAGCC 42/2026)
+- Aerocartografiere AGCC prelungită până în iunie 2026
+
+**Acte modificate:** niciuna nouă față de sesiunea precedentă
+**Acte abrogate:** niciuna nouă
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-06-01-modificari-legislative.md`
