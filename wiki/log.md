@@ -379,3 +379,20 @@ Perioadă acoperită: 2026-05-25 → 2026-06-01. Acces direct agcc.gov.md, monit
 **Acte abrogate:** niciuna nouă
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-06-01-modificari-legislative.md`
+
+## [2026-06-08] monitor | Modificări legislative detectate
+
+Acces direct agcc.gov.md blocat (HTTP 403 / `host_not_allowed`), la fel ca în sesiunile anterioare; comparația s-a bazat pe dovezi indirecte din WebSearch.
+
+**Acte candidate, posibil netrackate în index** (necesită confirmare manuală):
+- HG 470/2025 — accederea AGCC la TEGOVA și Alianța SPACE4GEO
+- HG 494/2022 — aderarea (fostei ARFC) la Consiliul Standardelor Internaționale de Evaluare (IVSC)
+- LP 1308/1997 — prețul normativ și vânzarea-cumpărarea pământului (menționat în wiki ca înlocuit prin CF 22/2024, dar fără intrare proprie în index)
+- LP 121/2007 — administrarea și deetatizarea proprietății publice
+- Ordin AGCC 61/2023 — grupuri de lucru INDS
+
+**Dezvoltare instituțională neclarificată:** reorganizarea INGEOCAD (Întreprindere de Stat → Instituție Publică), efectivă 01.07.2026, fondator AGCC — număr HG neidentificat; entitatea nu apare deloc în wiki.
+
+**Acte modificate / abrogate:** nimic nou identificat față de sesiunea din 2026-06-01.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-06-08-modificari-legislative.md`
