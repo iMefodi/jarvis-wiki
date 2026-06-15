@@ -396,3 +396,13 @@ Acces direct agcc.gov.md blocat (HTTP 403 / `host_not_allowed`), la fel ca în s
 **Acte modificate / abrogate:** nimic nou identificat față de sesiunea din 2026-06-01.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-06-08-modificari-legislative.md`
+
+---
+
+## [2026-06-15] monitor | Verificare nereușită — acces blocat la agcc.gov.md
+
+Verificarea automată a actelor normative de pe `agcc.gov.md/content/legislatia` nu a putut fi efectuată: hostul `agcc.gov.md` nu este permis de politica de rețea (egress allowlist) a mediului de execuție, cererea fiind respinsă cu `403 host_not_allowed` la nivel de proxy, nu de la server.
+
+**Acțiune necesară:** adăugarea `agcc.gov.md` în allowlist-ul de rețea al mediului, pentru ca verificările viitoare să poată accesa sursa.
+
+Nu s-a comparat conținutul wiki-ului cu sursa în această sesiune.
