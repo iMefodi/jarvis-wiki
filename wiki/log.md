@@ -406,3 +406,22 @@ Verificarea automată a actelor normative de pe `agcc.gov.md/content/legislatia`
 **Acțiune necesară:** adăugarea `agcc.gov.md` în allowlist-ul de rețea al mediului, pentru ca verificările viitoare să poată accesa sursa.
 
 Nu s-a comparat conținutul wiki-ului cu sursa în această sesiune.
+
+---
+
+## [2026-06-22] monitor | Fără modificări confirmate — acces direct la agcc.gov.md blocat persistent
+
+Accesul direct la `agcc.gov.md/content/legislatia` a fost din nou respins de mediul sandbox (`403 host_not_allowed`), la fel ca în toate sesiunile din 2026-05-25 încoace, inclusiv pentru proxy-uri alternative (r.jina.ai, allorigins.win, translate.goog, archive.org) — toate blocate la nivel de rețea, nu de server.
+
+S-a folosit fallback prin WebSearch (interogări multiple pe agcc.gov.md, gov.md, monitorul.gov.md). Nu s-au identificat acte noi confirmate față de raportul din 2026-06-08.
+
+**Candidați neconfirmați, reportați din 2026-06-08 (necesită verificare manuală):**
+- HG 470/2025 — accederea AGCC la TEGOVA și SPACE4GEO
+- HG 494/2022 — aderarea (fostei ARFC) la IVSC
+- LP 1308/1997 — prețul normativ și vânzarea-cumpărarea pământului
+- LP 121/2007 — administrarea și deetatizarea proprietății publice
+- Ordin AGCC 61/2023 — grupuri de lucru INDS
+
+**Atenție — termen apropiat:** reorganizarea INGEOCAD (Întreprindere de Stat → Instituție Publică, fondator AGCC) intră în vigoare **01.07.2026** (în 9 zile). Numărul HG-ului care aprobă reorganizarea nu a putut fi identificat din surse indirecte; INGEOCAD nu apare în wiki. Recomandare: verificare manuală prioritară înainte de această dată.
+
+**Recomandare generală:** blocarea accesului la agcc.gov.md persistă de aprox. 4 săptămâni; verificările automate prin WebSearch nu permit confirmarea/infirmarea directă a candidaților de mai sus. Necesită fie deblocarea hostului în allowlist-ul de rețea, fie verificare manuală periodică.
