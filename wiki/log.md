@@ -482,3 +482,18 @@ Perioadă acoperită: 2026-07-06 → 2026-07-13. Acces direct agcc.gov.md blocat
 **Atenție — termen critic iminent:** 31.07.2026 — termen final contestații reevaluare masivă Faza 2 (18 zile).
 
 **Recomandare:** blocarea accesului la agcc.gov.md persistă de 7+ săptămâni; verificare manuală directă recomandată pentru 475-AGCC-2026 și 200-MIDR-2026 (nr. oficial).
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-07-13-modificari-legislative.md`
+
+---
+
+## [2026-07-13] monitor | Sesiunea 2 — clarificări suplimentare + raport creat
+
+Sesiune suplimentară; aceleași surse ca sesiunea 1 (WebSearch pe gov.md, logos-pres.md, okeyimobil.md, tvrmoldova.md, agora.md).
+
+**Clarificări față de sesiunea 1:**
+- **HG 475-AGCC-2026** — conținut confirmat: restructurare geodezie-cartografie-cadastru la AGCC + 10 posturi noi (~1.876,9 mii lei/an); reorganizare ÎS INGEOCAD → IP INGEOCAD fondator AGCC, efectiv 01.07.2026. Nr. oficial MO în continuare neconfirmat.
+- **LP 70/2026 art. 3 alin. (2)** — intră în vigoare **21.08.2026** (3 luni de la publicare în MO 213-216 din 21.05.2026); obligă APC multi-condominiu să semneze acord cu noile asociații în 30 de zile.
+- **LP 40/2026 agenți imobiliari** — confirmat: registru agenți imobiliari integrat în SI AGCC; intrare în vigoare 9 luni de la publicare (~dec. 2026 / ian. 2027).
+
+**Termene critice actualizate:** 31.07.2026 (contestații reevaluare) și 21.08.2026 (LP 70/2026 art. 3 alin. (2)).
