@@ -459,3 +459,26 @@ Perioadă acoperită: 2026-06-29 → 2026-07-06. Acces direct agcc.gov.md, gov.m
 **Termen critic:** 31.07.2026 — ultim termen contestații reevaluare masivă (Faza 1 extinsă + Faza 2 comerciale/industriale)
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-06-modificari-legislative.md`
+
+---
+
+## [2026-07-13] monitor | Fără modificări confirmate — acces direct la agcc.gov.md blocat persistent
+
+Perioadă acoperită: 2026-07-06 → 2026-07-13. Acces direct agcc.gov.md blocat (HTTP 403 `host_not_allowed`), la fel ca în toate sesiunile anterioare (7+ săptămâni consecutiv); surse: WebSearch (fragmente indexate de pe gov.md, agora.md, tvrmoldova.md, moldpres.md, news-pravda.com).
+
+**Acte noi confirmate:** niciuna pentru perioada 2026-07-06 → 2026-07-13.
+
+**Candidat neconfirmat (de verificat manual):**
+- **Proiect 475-AGCC-2026** — proiect de HG apărut în dosarul ședințelor de guvern (mai 2026, gov.md); conținut și statut adoptat necunoscute din surse indirecte.
+
+**Procese operaționale în derulare:**
+- Faza 2 reevaluare masivă (comerciale/industriale) — **termen contestații: 31.07.2026** (18 zile); 6.436 contestații înregistrate în Faza 1; valori finale intră în vigoare 01.01.2027
+- **200-MIDR-2026** (lege condominiu e-Condominiu) — menționat în surse ca adoptat de Parlament în iulie 2026; număr oficial și decret prezidențial neconfirmate
+- Reorganizarea ÎS INGEOCAD → IP INGEOCAD (fondator AGCC) — efectivă 01.07.2026 (confirmat sesiunea 2026-07-06)
+
+**Acte modificate:** niciuna confirmată față de sesiunea precedentă.
+**Acte abrogate:** niciuna confirmată față de sesiunea precedentă.
+
+**Atenție — termen critic iminent:** 31.07.2026 — termen final contestații reevaluare masivă Faza 2 (18 zile).
+
+**Recomandare:** blocarea accesului la agcc.gov.md persistă de 7+ săptămâni; verificare manuală directă recomandată pentru 475-AGCC-2026 și 200-MIDR-2026 (nr. oficial).
