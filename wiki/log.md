@@ -502,19 +502,19 @@ Sesiune suplimentară; aceleași surse ca sesiunea 1 (WebSearch pe gov.md, logos
 
 ## [2026-07-20] monitor | Modificări legislative detectate
 
-Perioadă acoperită: 2026-07-13 → 2026-07-20. Acces direct agcc.gov.md blocat (HTTP 403 `host_not_allowed`), persistent de 8+ săptămâni; surse: WebSearch (fragmente indexate de pe agcc.gov.md, gov.md, legis.md, monitorul.gov.md, rlive.md, news-pravda.com).
+Perioadă acoperită: 2026-07-13 → 2026-07-20. Acces direct agcc.gov.md blocat (HTTP 403, 8+ săptămâni); surse: WebSearch pe gov.md, agcc.gov.md (fragmente indexate), justitietransparenta.md, logos-pres.md, moldova1.md, bani.md, ipcbi.gov.md.
 
-**Acte noi identificate (2):**
-- **OAGCC 57/2026** (21.05.2026) — Ghidul în evaluare: Evaluarea proprietății generatoare de afaceri; absent din wiki și din sesiunile anterioare de monitorizare
-- **OAGCC 67/2026** — Instrucțiuni privind elaborarea planului de utilizare a terenului pentru cota-parte din bunul imobil comun; absent din wiki și din sesiunile anterioare; identificat prima dată astăzi
+**Acte noi identificate (3, confirmate din pagina de legislație AGCC):**
+- **OAGCC 57/2026** — Ghidul în evaluare: Evaluarea proprietăților generatoare de venituri (hoteluri, centre comerciale, fabrici, logistică); completează OAGCC 59/2025 și SEV 100–233
+- **OAGCC 67/2026** — Instrucțiunea privind conținutul și modul de elaborare a planului părții de folosință a bunului imobil (proprietate comună)
+- **HG 28/2026** — Codul-cadru de etică al profesiei de evaluator de bunuri imobile
 
-**Confirmări parțiale:**
-- **200-MIDR-2026** (e-Condominiu) — adoptat de Parlament la începutul lunii iulie 2026; nr. oficial neconfirmat
-- **OAGCC 28/2026** — Codul-cadru de etică a profesiei de evaluator (în vigoare 01.03.2026); absent din wiki, identificat astăzi (nu exclusiv perioadei 13–20 iulie)
+**Clarificări:**
+- IP INGEOCAD (reorganizare ÎS → IP, fondator AGCC) — confirmat din ședința de guvern 01.07.2026; HG nr. MO neconfirmat
+- 200-MIDR-2026 (lege e-Condominiu) — adoptată Parlament iulie 2026; nr. oficial LP și MO neconfirmate la 20.07.2026
+- PDSE: serviciu „Certificat RBI" actualizat 10.07.2026 (livrare la adresă, non-normativ)
+- Proiect lege extindere acces avocați la RBI (stadiu elaborare AGCC + IP CBI)
 
-**Termen critic iminent:** 31.07.2026 (11 zile) — contestații reevaluare masivă Faza 2; 21.08.2026 — LP 70/2026 art. 3 alin. (2)
-
-**Acte modificate:** niciuna nouă confirmată
-**Acte abrogate:** niciuna nouă confirmată
+**Termen critic iminent:** 31.07.2026 (11 zile) — expiră contestații reevaluare masivă Faza 1+2.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-20-modificari-legislative.md`
