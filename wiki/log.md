@@ -497,3 +497,24 @@ Sesiune suplimentară; aceleași surse ca sesiunea 1 (WebSearch pe gov.md, logos
 - **LP 40/2026 agenți imobiliari** — confirmat: registru agenți imobiliari integrat în SI AGCC; intrare în vigoare 9 luni de la publicare (~dec. 2026 / ian. 2027).
 
 **Termene critice actualizate:** 31.07.2026 (contestații reevaluare) și 21.08.2026 (LP 70/2026 art. 3 alin. (2)).
+
+---
+
+## [2026-07-20] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-07-13 → 2026-07-20. Acces direct agcc.gov.md blocat (HTTP 403 `host_not_allowed`), persistent de 8+ săptămâni; surse: WebSearch (fragmente indexate de pe agcc.gov.md, gov.md, legis.md, monitorul.gov.md, rlive.md, news-pravda.com).
+
+**Acte noi identificate (2):**
+- **OAGCC 57/2026** (21.05.2026) — Ghidul în evaluare: Evaluarea proprietății generatoare de afaceri; absent din wiki și din sesiunile anterioare de monitorizare
+- **OAGCC 67/2026** — Instrucțiuni privind elaborarea planului de utilizare a terenului pentru cota-parte din bunul imobil comun; absent din wiki și din sesiunile anterioare; identificat prima dată astăzi
+
+**Confirmări parțiale:**
+- **200-MIDR-2026** (e-Condominiu) — adoptat de Parlament la începutul lunii iulie 2026; nr. oficial neconfirmat
+- **OAGCC 28/2026** — Codul-cadru de etică a profesiei de evaluator (în vigoare 01.03.2026); absent din wiki, identificat astăzi (nu exclusiv perioadei 13–20 iulie)
+
+**Termen critic iminent:** 31.07.2026 (11 zile) — contestații reevaluare masivă Faza 2; 21.08.2026 — LP 70/2026 art. 3 alin. (2)
+
+**Acte modificate:** niciuna nouă confirmată
+**Acte abrogate:** niciuna nouă confirmată
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-07-20-modificari-legislative.md`
