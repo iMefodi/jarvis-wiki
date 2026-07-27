@@ -518,3 +518,20 @@ Perioadă acoperită: 2026-07-13 → 2026-07-20. Acces direct agcc.gov.md blocat
 **Termen critic iminent:** 31.07.2026 (11 zile) — expiră contestații reevaluare masivă Faza 1+2.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-20-modificari-legislative.md`
+
+---
+
+## [2026-07-27] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-07-20 → 2026-07-27. Acces direct agcc.gov.md blocat persistent (HTTP 403, 10+ săptămâni consecutiv); surse: WebSearch (telegraph.md, news.yam.md, tvrmoldova.md, gov.md — fragmente indexate).
+
+**Acte noi adoptate:** niciuna identificată.
+
+**Proces nou în curs — modificare modele de evaluare fiscală (~23 iulie 2026):**
+- AGCC a inițiat elaborarea proiectelor de OAGCC pentru modificarea modelelor de evaluare a: caselor individuale (mun. Chișinău și Bălți), garajelor individuale/cooperative/locuri de parcare, loturilor pomicole cu/fără căsuțe; cauza: omisiuni și inconsecvențe tehnico-metodologice identificate după aplicare
+
+**Termen critic iminent:** 31.07.2026 (4 zile) — expiră contestații reevaluare masivă Faza 1+2; valori finale în vigoare 01.01.2027.
+
+**Candidați neconfirmați:** 200-MIDR-2026 (e-Condominiu, nr. LP neconfirmat); HG 475-AGCC-2026 (nr. MO neconfirmat).
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-07-27-modificari-legislative.md`
