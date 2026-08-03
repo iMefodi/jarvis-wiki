@@ -537,20 +537,19 @@ Raport detaliat: `wiki/synthesis/monitoring/2026-07-27-modificari-legislative.md
 
 ---
 
-## [2026-08-03] monitor | Fără modificări legislative confirmate
+## [2026-08-03] monitor | Modificări legislative detectate
 
-Perioadă acoperită: 2026-07-27 → 2026-08-03. Acces direct agcc.gov.md blocat (HTTP 403, 10+ săptămâni consecutive); surse: WebSearch (gov.md, telegraph.md, tvrmoldova.md, bani.md, news.yam.md, okeyimobil.md).
+Perioadă acoperită: 2026-07-27 → 2026-08-03. Acces direct agcc.gov.md blocat (HTTP 403, 10+ săptămâni consecutiv); surse: WebSearch pe telegraph.md, ziar.md, jurnaltv.md, agora.md, bani.md, okeyimobil.md, stiri.md, moldova1.md, ziarulnational.md, justitietransparenta.md, ipcbi.gov.md, agcc.gov.md (fragmente indexate).
 
-**Acte noi confirmate:** niciuna.
-**Acte modificate:** niciuna.
-**Acte abrogate:** niciuna.
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat în această perioadă (vacanță parlamentară august).
 
-**Termen expirat:** 31.07.2026 — contestații reevaluare masivă: 7.429 depuse total; valori finale intră în vigoare 01.01.2027.
+**Termen expirat (31.07.2026):** contestații reevaluare masivă — 7.429 depuse (Faza 1+2); examinare în toamnă 2026; valori finale 01.01.2027.
 
-**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2): APC multi-condominiu obligate să semneze acord cu noile asociații în 30 de zile.
+**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2) intră în vigoare (obligație APC multi-condominiu).
 
-**Candidați neconfirmați (de sesiunile anterioare):** 200-MIDR-2026 (lege e-Condominiu, nr. oficial LP neconfirmat); HG 475-AGCC-2026 (nr. MO neconfirmat); proiect lege avocați acces RBI (în elaborare).
+**Procese în derulare:** 200-MIDR-2026 (e-Condominiu) adoptat, nr. LP neconfirmat; AGCC inițiază modificare modele evaluare OAGCC 49/77 (consultare publică); proiect lege acces avocați RBI în elaborare; HG 475-AGCC-2026 (INGEOCAD) nr. MO neconfirmat (2. sesiune).
 
-**Pregătire:** AGCC elaborează ordine modificare modele evaluare imobiliară (anunț 23.07.2026) — ordine finale nepublicate; validare modele oct. 2026.
+**Acte modificate:** niciuna nouă.
+**Acte abrogate:** niciuna nouă.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-03-modificari-legislative.md`
