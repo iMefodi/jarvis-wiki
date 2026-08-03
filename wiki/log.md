@@ -534,3 +534,23 @@ Perioadă acoperită: 2026-07-20 → 2026-07-27. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna confirmată
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-27-modificari-legislative.md`
+
+---
+
+## [2026-08-03] monitor | Fără modificări legislative confirmate
+
+Perioadă acoperită: 2026-07-27 → 2026-08-03. Acces direct agcc.gov.md blocat (HTTP 403, 10+ săptămâni consecutive); surse: WebSearch (gov.md, telegraph.md, tvrmoldova.md, bani.md, news.yam.md, okeyimobil.md).
+
+**Acte noi confirmate:** niciuna.
+**Acte modificate:** niciuna.
+**Acte abrogate:** niciuna.
+
+**Termen expirat:** 31.07.2026 — contestații reevaluare masivă: 7.429 depuse total; valori finale intră în vigoare 01.01.2027.
+
+**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2): APC multi-condominiu obligate să semneze acord cu noile asociații în 30 de zile.
+
+**Candidați neconfirmați (de sesiunile anterioare):** 200-MIDR-2026 (lege e-Condominiu, nr. oficial LP neconfirmat); HG 475-AGCC-2026 (nr. MO neconfirmat); proiect lege avocați acces RBI (în elaborare).
+
+**Pregătire:** AGCC elaborează ordine modificare modele evaluare imobiliară (anunț 23.07.2026) — ordine finale nepublicate; validare modele oct. 2026.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-08-03-modificari-legislative.md`
