@@ -553,3 +553,22 @@ Perioadă acoperită: 2026-07-27 → 2026-08-03. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna nouă.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-03-modificari-legislative.md`
+
+---
+
+## [2026-08-10] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-08-03 → 2026-08-10. Acces direct agcc.gov.md blocat (HTTP 403, 11+ săptămâni consecutiv); surse: WebSearch pe gov.md, privesc.eu, rlive.md, news.yam.md, unimedia.info, bani.md, okeyimobil.md, logos-pres.md.
+
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat în Monitorul Oficial în această perioadă.
+
+**Eveniment semnificativ:** ședința Guvernului din 05.08.2026 a aprobat un proiect HG de modificare a HG 959/2023 (organizarea AGCC + restructurare sector). Nr. oficial neconfirmat — de verificat manual.
+
+**Candidat neconfirmat:** HG 221/2026 (Registrul rețelelor edilitare, LP 290/2024) — menționat în fragmente indexate, neconfirmat direct.
+
+**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2) intră în vigoare (obligație APC multi-condominiu, 11 zile).
+
+**Acte modificate:** niciuna nouă.
+**Acte abrogate:** niciuna nouă.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-08-10-modificari-legislative.md`
