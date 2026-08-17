@@ -572,3 +572,26 @@ Perioadă acoperită: 2026-08-03 → 2026-08-10. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna nouă.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-10-modificari-legislative.md`
+
+---
+
+## [2026-08-17] monitor | Modificări legislative detectate
+
+Perioadă acoperită: 2026-08-10 → 2026-08-17. Acces direct agcc.gov.md blocat (HTTP 403, 11+ săptămâni consecutiv); surse: WebSearch pe privesc.eu, rlive.md, telegraph.md, monitorul.fisc.md, logos-pres.md, bani.md, legis.md, ipcbi.gov.md.
+
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat în Monitorul Oficial în această perioadă (vacanță parlamentară august).
+
+**Termen critic iminent — 21.08.2026 (4 zile):** LP 70/2026 art. 3 alin. (2) intră în vigoare — obligație APC multi-condominiu să semneze cu noile asociații în 30 de zile.
+
+**Ședința Guvernului 12.08.2026:** aprobată hotărâre actualizare cadru normativ cadastral (protecție date personale + acces avocați RBI); nr. HG neconfirmat.
+
+**HG 221/2026** (SI Registrul rețelelor edilitare / LP 290/2024) — confirmat parțial; nr. MO neconfirmat.
+
+**Candidați persistenți neconfirmați:** HG 475-AGCC-2026 (INGEOCAD, nr. MO); LP 200-MIDR-2026 (e-Condominiu, nr. oficial).
+
+**Reevaluare masivă:** 7.429+ contestații; validare oct. 2026; valori noi 01.01.2027.
+
+**Acte modificate:** niciuna nouă.
+**Acte abrogate:** niciuna nouă.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-08-17-modificari-legislative.md`
