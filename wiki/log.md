@@ -595,3 +595,20 @@ Perioadă acoperită: 2026-08-10 → 2026-08-17. Acces direct agcc.gov.md blocat
 **Acte abrogate:** niciuna nouă.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-17-modificari-legislative.md`
+
+---
+
+## [2026-08-24] monitor | LP 70/2026 art. 3 alin. (2) intrat în vigoare 21.08.2026
+
+Perioadă acoperită: 2026-08-17 → 2026-08-24. Acces direct agcc.gov.md blocat (HTTP 403, 12+ săptămâni consecutiv); surse: WebSearch pe gov.md, agcc.gov.md (fragmente), legis.md, moldpres.md, agora.md, bani.md, justitietransparenta.md.
+
+**Eveniment legislativ confirmat:**
+- **LP 70/2026 art. 3 alin. (2)** — intrat în vigoare **21.08.2026** (3 luni de la publicare MO 213-216/21.05.2026); APC multi-condominiu trebuie să semneze acord cu noua asociație în 30 de zile (termen: 21.09.2026)
+
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat în această perioadă (vacanță parlamentară).
+
+**Candidați persistenți neconfirmați:** HG modificare HG 959/2023 (ședința 12.08.2026, nr. neconf.); HG 221/2026 (retele edilitare); LP 200-MIDR-2026 (e-Condominiu, nr. oficial); HG 475-AGCC-2026 (INGEOCAD, nr. MO).
+
+**Termen critic următor:** 21.09.2026 — termen APC multi-condominiu (LP 70/2026 art. 3 alin. (2)).
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-08-24-modificari-legislative.md`
