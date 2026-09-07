@@ -1,6 +1,6 @@
 # Log
 
-Хронологический append-only лог всех операций с вики.
+Hронологический append-only лог всех операций с вики.
 
 ---
 
@@ -14,619 +14,429 @@
 
 ---
 
-## [2026-04-18] ingest | Legislația Cadastrului — Catalog sistematizat (RM)
+## [2026-04-18] ingest | Legislatia Cadastrului - Catalog sistematizat (RM)
 
-**Fișiere sursă:**
+**Fisiere sursa:**
 - `raw/sources/legislatia-cadastrului-index.html`
 - `raw/sources/legislatia-cadastrului-readme.txt`
 
 **Создано:**
-- `wiki/sources/legislatia-cadastrului-index.md` — полный каталог 60+ актов по 7 категориям
-- `wiki/entities/agcc.md` — AGCC (орган регулирования, с дек. 2023)
-- `wiki/entities/ip-cbi.md` — IP CBI (оперативные кадастровые услуги, с 03.01.2024)
-- `wiki/entities/arfc.md` — ARFC (ликвидирована, технические приказы действуют)
-- `wiki/entities/inds.md` — INDS (инфраструктура пространственных данных)
-- `wiki/concepts/cadastru-bunuri-imobile.md` — кадастр недвижимости, РНИ, типы работ
-- `wiki/concepts/evaluare-bunuri-imobile.md` — оценка недвижимости, стандарты ИВСК
-- `wiki/concepts/fond-funciar.md` — земельный фонд, новый Земельный кодекс
-- `wiki/concepts/geodezie-cartografie.md` — геодезия, GNSS/MOLDPOS, топопланы
-- `wiki/concepts/date-spatiale-inspire.md` — пространственные данные INSPIRE
+- `wiki/sources/legislatia-cadastrului-index.md` - полный каталог 60+ актов по 7 категориям
+- `wiki/entities/agcc.md` - AGCC (орган регулирования, с дек. 2023)
+- `wiki/entities/ip-cbi.md` - IP CBI (оперативные кадастровые услуги, с 03.01.2024)
+- `wiki/entities/arfc.md` - ARFC (ликвидирована, технические приказы действуют)
+- `wiki/entities/inds.md` - INDS (инфраструктура пространственных данных)
+- `wiki/concepts/cadastru-bunuri-imobile.md` - кадастр недвижимости, РНИ, типы работ
+- `wiki/concepts/evaluare-bunuri-imobile.md` - оценка недвижимости, стандарты ИВСК
+- `wiki/concepts/fond-funciar.md` - земельный фонд, новый Земельный кодекс
+- `wiki/concepts/geodezie-cartografie.md` - геодезия, GNSS/MOLDPOS, топопланы
+- `wiki/concepts/date-spatiale-inspire.md` - пространственные данные INSPIRE
 
 **Ключевые факты из источника:**
-- ARFC → AGCC (реорганизация дек. 2023); создан IP CBI с 03.01.2024
-- Новый Земельный кодекс CF 22/2024 — в силе с 07.03.2025
+- ARFC -> AGCC (реорганизация дек. 2023); создан IP CBI с 03.01.2024
+- Новый Земельный кодекс CF 22/2024 - в силе с 07.03.2025
 - HG 201/2025 заменяет Инструкцию ARFC 112/2005 (с 16.05.2025)
-- Стандарты IVSC (SEV 100–233) — обязательны с 01.07.2025
+- Стандарты IVSC (SEV 100-233) - обязательны с 01.07.2025
 
 ---
 
-## [2026-04-18] ingest | HG 63/2026 — delimitare proprietate publică 2026-2028
+## [2026-04-18] ingest | HG 63/2026 - delimitare proprietate publica 2026-2028
 
 - Creat: `wiki/sources/hg-63-2026-delimitare.md`
-- Actualizat: `wiki/sources/legislatia-cadastrului-index.md` (înlocuit cu datele corecte)
-- Actualizat: `wiki/concepts/fond-funciar.md` — proceduri noi delimitare masivă, plan de contur, termene
+- Actualizat: `wiki/sources/legislatia-cadastrului-index.md` (inlocuit cu datele corecte)
+- Actualizat: `wiki/concepts/fond-funciar.md` - proceduri noi delimitare masiva, plan de contur, termene
 - Actualizat: `wiki/index.md`
-- Fișier sursă: `raw/sources/hg-63-2026-delimitare.pdf`
+- Fisier sursa: `raw/sources/hg-63-2026-delimitare.pdf`
 
-Puncte cheie: program extins 2019–2028; Agenția Proprietății Publice înlocuiește IP CBI în coordonare; plan de contur electronic cu KEP; aprobul tacit după 3 zile notificare; Capitolul IV pentru rectificarea hotarelor delimitate anterior.
+Puncte cheie: program extins 2019-2028; Agentia Proprietatii Publice inlocuieste IP CBI in coordonare; plan de contur electronic cu KEP; aprobul tacit dupa 3 zile notificare; Capitolul IV pentru rectificarea hotarelor delimitate anterior.
 
 ---
 
-## [2026-04-18] ingest | Acte noi din monitorizare — 8 acte adăugate în wiki
+## [2026-04-18] ingest | Acte noi din monitorizare - 8 acte adaugate in wiki
 
 - Actualizat: `wiki/sources/legislatia-cadastrului-index.md`
-- Actualizat: `wiki/concepts/evaluare-bunuri-imobile.md` — OAGCC 49, 77, 123 / 2025
-- Actualizat: `wiki/concepts/geodezie-cartografie.md` — HG 94, 100/2025; HG 118/2026 (SNP)
-- Actualizat: `wiki/concepts/date-spatiale-inspire.md` — HG 91/2026 (INDS 2026–2030)
+- Actualizat: `wiki/concepts/evaluare-bunuri-imobile.md` - OAGCC 49, 77, 123 / 2025
+- Actualizat: `wiki/concepts/geodezie-cartografie.md` - HG 94, 100/2025; HG 118/2026 (SNP)
+- Actualizat: `wiki/concepts/date-spatiale-inspire.md` - HG 91/2026 (INDS 2026-2030)
 - HG 63/2026 marcat ca de verificat manual
 
 ---
 
-## [2026-04-19] ingest | Ordine ARFC 70/07/71 — instrucțiuni tehnice cadastrale + anexe
+## [2026-04-19] ingest | Ordine ARFC 70/07/71 - instructiuni tehnice cadastrale + anexe
 
-**Fișiere sursă:**
-- `raw/sources/ORDIN Nr. 70/` — 16 fișiere (lucrări la teren)
-- `raw/sources/ORDIN Nr. 07/` — 27 fișiere (lucrări la clădiri)
-- `raw/sources/ORDIN Nr. 71/` — 13 fișiere (formarea bunurilor imobile)
+**Fisiere sursa:**
+- `raw/sources/ORDIN Nr. 70/` - 16 fisiere (lucrari la teren)
+- `raw/sources/ORDIN Nr. 07/` - 27 fisiere (lucrari la cladiri)
+- `raw/sources/ORDIN Nr. 71/` - 13 fisiere (formarea bunurilor imobile)
 
 **Creat:**
-- `wiki/sources/ordin-arfc-70-2017-teren.md` — aviz vecini, act restabilire/transpunere hotare, act plantații perene, act limită parte din teren
-- `wiki/sources/ordin-arfc-07-2015-cladiri.md` — schiță teren/clădire/încăpere, fișă tehnică, calcul uzură (formulă), certificat inspecție
-- `wiki/sources/ordin-arfc-71-2017-formare.md` — toate 5 căi de formare, tabel documente obligatorii per cale, cine semnează (agricol vs. construcții)
+- `wiki/sources/ordin-arfc-70-2017-teren.md`
+- `wiki/sources/ordin-arfc-07-2015-cladiri.md`
+- `wiki/sources/ordin-arfc-71-2017-formare.md`
+
+**Actualizat:** `wiki/index.md`
+
+---
+
+## [2026-04-19] ingest | CUC 434/2023 - Codul Urbanismului si Constructiilor
+
+**Fisier sursa:** `raw/sources/cuc-434-2023-urbanism-constructii.pdf`
+
+**Creat:**
+- `wiki/sources/cuc-434-2023.md`
+- `wiki/concepts/urbanism-constructii.md`
 
 **Actualizat:** `wiki/index.md`
 
 **Puncte cheie:**
-- Ordin 70: transpunere/restabilire = GNSS/taheometru + borne; aviz vecini cu recipisă
-- Ordin 07: uzura se calculează formulă element cu element; certificatul de inspecție = baza înregistrării în RBI
-- Ordin 71: tabel documente — separare necesită transpunere în teren, divizare nu; reparcelare = prin documentație urbanistică; agricultur → inginer funciar primărie; construcții → arhitect-șef
+- Exploatarea constructiei = posibila numai dupa receptie + inregistrare la organul cadastral
+- Art. 387 alin. (4): inregistrare case neautorizate functionale la 30.01.2024 - termen 30.01.2028
+- Art. 220 alin. (4): ridicare topografica de executie pentru retele edilitare -> APL in 30 zile
+- LP334/29.01.2026: certificat de edificare gratuit daca APL nu a stabilit taxa
 
 ---
 
-## [2026-04-19] ingest | CUC 434/2023 — Codul Urbanismului și Construcțiilor
+## [2026-04-19] ingest | OAGCC 117/2025 - modificarea unor acte normative cadastrale
 
-**Fișier sursă:** `raw/sources/cuc-434-2023-urbanism-constructii.pdf`
-
-**Creat:**
-- `wiki/sources/cuc-434-2023.md` — analiză completă: autorizare, recepție, art. 387, ridicare topografică de execuție
-- `wiki/concepts/urbanism-constructii.md` — ciclul de viață al construcției, conexiunea cu cadastrul, termene-cheie
-
-**Actualizat:** `wiki/index.md`
-
-**Puncte cheie:**
-- Exploatarea construcției = posibilă numai după recepție + înregistrare la organul cadastral
-- Art. 387 alin. (4): înregistrare case neautorizate funcționale la 30.01.2024 — termen 30.01.2028
-- Art. 220 alin. (4): ridicare topografică de execuție pentru rețele edilitare → APL în 30 zile
-- LP334/29.01.2026: certificat de edificare gratuit dacă APL nu a stabilit taxă
-
----
-
-## [2026-04-19] ingest | OAGCC 117/2025 — modificarea unor acte normative cadastrale
-
-**Fișier sursă:** `raw/sources/oagcc-117-2025-modificari.pdf`
-**Anexe:** `raw/sources/ORDIN Nr. 117/` (an. 9, 16a, 24, 25)
+**Fisier sursa:** `raw/sources/oagcc-117-2025-modificari.pdf`
 
 **Creat:**
-- `wiki/sources/oagcc-117-2025-modificari.md` — analiza completă: modificări la Ordin 07, 71, 70; abrogare Ordin 108
+- `wiki/sources/oagcc-117-2025-modificari.md`
 
-**Actualizat:**
-- `wiki/sources/ordin-arfc-07-2015-cladiri.md` — menționat modificat + Cap. VI nou
-- `wiki/sources/ordin-arfc-71-2017-formare.md` — secțiune nouă cu modificările OAGCC 117
-- `wiki/sources/ordin-arfc-70-2017-teren.md` — menționat modificat
-- `wiki/concepts/urbanism-constructii.md` — procedura lucrărilor simplificate art. 387 (din 05.01.2026)
-- `wiki/index.md`
+**Actualizat:** `wiki/sources/ordin-arfc-07-2015-cladiri.md`, `wiki/sources/ordin-arfc-71-2017-formare.md`, `wiki/sources/ordin-arfc-70-2017-teren.md`, `wiki/concepts/urbanism-constructii.md`, `wiki/index.md`
 
 **Puncte cheie:**
-- Cap. VI Ordin 07 (nou): lucrări cadastrale simplificate pentru case neautorizate art. 387 CUC
-- Clădiri neautorizate se marchează Clădire neautorizată în planul geometric
-- PUG publicat pe web APL înlocuiește certificatul de urbanism informativ (Ordin 71)
-- Interdicție: comasarea terenurilor din UAT diferite
+- Cap. VI Ordin 07 (nou): lucrari cadastrale simplificate pentru case neautorizate art. 387 CUC
 - Ordin ARFC 108/2016 ABROGAT prin art. 4 al prezentului ordin
 
 ---
 
-## [2026-04-19] update | Ordin ARFC 108/2016 — marcat ABROGAT
+## [2026-04-19] update | Ordin ARFC 108/2016 - marcat ABROGAT
 
-Ordin ARFC 108/2016 (schema de amplasare) ABROGAT prin OAGCC 117/2025, în vigoare 05.01.2026.
+Ordin ARFC 108/2016 (schema de amplasare) ABROGAT prin OAGCC 117/2025, in vigoare 05.01.2026.
 
-**Actualizat:**
-- `wiki/entities/arfc.md` — mutat din în vigoare în secțiunea abrogate
-- `wiki/concepts/cadastru-bunuri-imobile.md` — referință actualizată; procedura de schema de amplasare rămâne reglementată de art. 71.5 HG 201/2025
-- `wiki/sources/legislatia-cadastrului-index.md` — stare actualizată
-
-OAGCC 117/2025 (înlocuitor) — neingerat încă în wiki.
+**Actualizat:** `wiki/entities/arfc.md`, `wiki/concepts/cadastru-bunuri-imobile.md`, `wiki/sources/legislatia-cadastrului-index.md`
 
 ---
 
-## [2026-04-19] ingest | HG 201/2025 — Regulamentul privind înscrierea în RBI
+## [2026-04-19] ingest | HG 201/2025 - Regulamentul privind inscrierea in RBI
 
-**Fișier sursă:** `raw/sources/hg-201-2025-inscriere-rbi.pdf`
-**Anexe:** `raw/sources/HOTARARE Nr. 201/` (an. 1 — structura RBI, an. 4 — nomenclator)
+**Fisier sursa:** `raw/sources/hg-201-2025-inscriere-rbi.pdf`
 
 **Creat:**
-- `wiki/sources/hg-201-2025-inscriere-rbi.md` — regulamentul complet: structura RBI (cap. A/B/C, subcap. I/II/III), procedura, termen 10 zile, 14 temeiuri de respingere, înregistrare provizorie, nomenclator 16 tipuri clădiri
+- `wiki/sources/hg-201-2025-inscriere-rbi.md`
 
-**Actualizat:**
-- `wiki/concepts/cadastru-bunuri-imobile.md` — procedura de înregistrare detaliată (HG 201 art. 25, 35, 40)
-- `wiki/index.md`
+**Actualizat:** `wiki/concepts/cadastru-bunuri-imobile.md`, `wiki/index.md`
 
 **Puncte cheie:**
-- Înlocuiește Instrucțiunea ARFC 112/2005 (din 16.05.2025)
-- Termen examinare: 10 zile lucrătoare, prelungire max 40 zile
-- Notarul OBLIGAT să depună cererea electronic prin PDSE
-- Înregistrare primară necesită plan geometric recepționat
-- Nomenclator: 16 tipuri clădiri, 7 categorii terenuri (Anexa 4)
+- Inlocuieste Instructiunea ARFC 112/2005 (din 16.05.2025)
+- Termen examinare: 10 zile lucratoare, prelungire max 40 zile
+- Notarul OBLIGAT sa depuna cererea electronic prin PDSE
 
 ---
 
-## [2026-04-19] ingest | LP 1543/1998 · OARFC 17/2021 · LP 187/2022 · HG 43/2026
+## [2026-04-19] ingest | LP 1543/1998 - OARFC 17/2021 - LP 187/2022 - HG 43/2026
 
-**Fișiere sursă:**
-- `raw/sources/lp-1543-1998-cadastru.pdf`
-- `raw/sources/oarfc-17-2021-clasificator-terenuri.pdf`
-- `raw/sources/lp-187-2022-condominiu.pdf`
-- `raw/sources/hg-43-2026-modificari-cadastru.pdf`
+**Creat:** `wiki/sources/lp-1543-1998-cadastru.md`, `wiki/sources/oarfc-17-2021-clasificator-terenuri.md`, `wiki/sources/lp-187-2022-condominiu.md`, `wiki/sources/hg-43-2026-modificari-cadastru.md`
 
-**Creat:**
-- `wiki/sources/lp-1543-1998-cadastru.md` — legea-cadru: definiții, 11 tipuri lucrări (LP176/2025), executanți, registrator, transparența datelor
-- `wiki/sources/oarfc-17-2021-clasificator-terenuri.md` — clasificator complet: 6 categorii, 50+ coduri de destinație și folosință
-- `wiki/sources/lp-187-2022-condominiu.md` — condominiu: cot-parte, asociație proprietari, conexiunea cu RBI
-- `wiki/sources/hg-43-2026-modificari-cadastru.md` — acte modificate: HG 201/2025 (nomenclator + parafa + 167.3.7), HG 437/2019, HG 1518/2003, HG 130/2025
-
-**Actualizat:**
-- `wiki/concepts/cadastru-bunuri-imobile.md` — adăugate 11 tipuri de lucrări (LP176/2025) + surse noi
-- `wiki/concepts/fond-funciar.md` — referință la clasificatorul OARFC 17
-- `wiki/index.md`
-
-**Puncte cheie:**
-- LP 1543/1998 art. 14 (LP176/2025): 11 tipuri de lucrări cadastrale enumerate explicit; recepția = obligatorie, efectuată de IP CBI
-- LP 1543/1998 art. 15 (LP176/2025): executanții = entități juridice cu cel puțin 1 inginer cadastral certificat; răspunderea = inginerul cadastral
-- OARFC 17/2021: 6 categorii x 50+ moduri de folosință cu cod unic; utilizat la întocmirea documentației cadastrale
-- LP 187/2022: cot-parte = suprafața unității / suma tuturor unităților; calcul cote-părți = lucrare cadastrală (art. 14 lit. j LP 1543)
-- HG 43/2026 (12.03.2026): nomenclatorul clădirilor + poziția 16 Clădire auxiliară; nomenclatorul terenurilor + 4.7 Garaje; extrase gratuite limitate la 1/an/persoană; IP CBI preia Registrul adreselor de la ASP
+**Actualizat:** `wiki/concepts/cadastru-bunuri-imobile.md`, `wiki/concepts/fond-funciar.md`, `wiki/index.md`
 
 ---
 
-## [2026-04-19] update | Entități noi + pagini de synthesis
+## [2026-04-19] update | Entitati noi + pagini de synthesis
 
-**Entități create:**
-- `wiki/entities/oct.md` — OCT: Oficiul Cadastral Teritorial, structura teritorială IP CBI; registrator-șef; competență teritorială
-- `wiki/entities/pdse.md` — PDSE: platforma electronică a notarilor pentru depunerea cererilor în RBI (obligatorie HG 201/2025 art. 35)
-- `wiki/entities/inst.md` — INST: Inspectoratul Național pentru Supraveghere Tehnică; recepție construcții; Registrul de stat CUC art. 10
+**Entitati create:** `wiki/entities/oct.md`, `wiki/entities/pdse.md`, `wiki/entities/inst.md`
 
-**Synthesis create:**
-- `wiki/synthesis/inregistrare-casa-noua.md` — flux complet: autorizare CUC → recepție → lucrare cadastrală Ordin 07 → înregistrare RBI HG 201
-- `wiki/synthesis/inregistrare-casa-neautorizata-art387.md` — procedura excepțională art. 387 CUC; lucrare simplificată Cap. VI Ordin 07; notare permanentă RBI; termen 30.01.2028
-- `wiki/synthesis/formarea-bunurilor-imobile-alegerea-caii.md` — tabel decizie 5 căi; documente per cale; cine semnează (Ordin 71 + OAGCC 117)
+**Synthesis create:** `wiki/synthesis/inregistrare-casa-noua.md`, `wiki/synthesis/inregistrare-casa-neautorizata-art387.md`, `wiki/synthesis/formarea-bunurilor-imobile-alegerea-caii.md`
 
 **Actualizat:** `wiki/index.md`
 
 ---
 
-## [2026-04-18] monitor | Modificări legislative detectate
+## [2026-04-18] monitor | Modificari legislative detectate
 
-Comparație față de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
+Comparatie fata de `wiki/sources/legislatia-cadastrului-index.md`. Acces direct la agcc.gov.md blocat (HTTP 403); analiza s-a efectuat pe baza surselor secundare.
 
 **Acte noi identificate (8):**
-- HG 94/2025 — Conceptul Atlasului Național al RM (geodezie)
-- HG 100/2025 — Conceptul SI Registrul denumirilor geografice (geodezie)
-- HG 118/2026 — Conceptul SNP + Regulament privind Sistemul Național de Poziționare (geodezie)
-- OAGCC 49/2025 — Modelul de evaluare loturi pomicole (evaluare)
-- OAGCC 77/2025 — Modelul de evaluare garaje și locuri de parcare (evaluare)
-- OAGCC 123/2025 — Instrucțiuni privind Rapoartele de evaluare imobiliară (evaluare)
-- HG 91/2026 — Programul INDS 2026–2030 (date spațiale)
-- HG 63/2026 — subiect neconfirmat, prezent în legis.md (de verificat)
+- HG 94/2025 - Conceptul Atlasului National al RM (geodezie)
+- HG 100/2025 - Conceptul SI Registrul denumirilor geografice (geodezie)
+- HG 118/2026 - Conceptul SNP + Regulament privind Sistemul National de Pozitionare (geodezie)
+- OAGCC 49/2025 - Modelul de evaluare loturi pomicole (evaluare)
+- OAGCC 77/2025 - Modelul de evaluare garaje si locuri de parcare (evaluare)
+- OAGCC 123/2025 - Instructiuni privind Rapoartele de evaluare imobiliara (evaluare)
+- HG 91/2026 - Programul INDS 2026-2030 (date spatiale)
+- HG 63/2026 - subiect neconfirmat, prezent in legis.md (de verificat)
 
-**Acte modificate:** niciuna detectată
-**Acte abrogate:** niciuna nouă față de wiki
+**Acte modificate:** niciuna detectata
+**Acte abrogate:** niciuna noua fata de wiki
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-18-modificari-legislative.md`
 
 ---
 
-## [2026-04-19] monitor | Modificări legislative detectate
+## [2026-04-19] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-04-18 → 2026-04-19. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, mass-media.
+Perioada acoperita: 2026-04-18 -> 2026-04-19. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, mass-media.
 
-**Acte noi identificate (1, cu nr. final nepublicat):**
-- LP 147-MIDR-2026 — Lege prelungire termen privatizare locuințe de stat: 31.05.2026 → 31.05.2029; abrogă norma LP 187/2022 privind numărul cadastral separat al camerelor izolate; adoptat de Parlament ~08–12.04.2026, promulgare în așteptare
+**Acte noi identificate (1):**
+- LP 147-MIDR-2026 - Lege prelungire termen privatizare locuinte de stat: 31.05.2026 -> 31.05.2029
 
-**Procese în derulare cu impact cadastral:**
-- Consultări publice reevaluare masivă 6 milioane bunuri imobile — termen 30.04.2026 (geodata.gov.md); contestații la OCT 90 zile; valori noi în vigoare 01.01.2027
-- Aerofotografiere teritoriu RM (AGCC) — 20.03–30.04.2026, actualizare ortoimagini
-
-**Acte modificate:** niciuna detectată
-**Acte abrogate:** niciuna nouă față de sesiunea precedentă
+**Acte modificate:** niciuna detectata
+**Acte abrogate:** niciuna noua fata de sesiunea precedenta
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-19-modificari-legislative.md`
 
 ---
 
-## [2026-04-20] monitor | Modificări legislative detectate
+## [2026-04-20] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-04-19 → 2026-04-20. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, ipcbi.gov.md, mass-media.
+Perioada acoperita: 2026-04-19 -> 2026-04-20.
 
-**Acte noi identificate (2 proiecte în faza parlamentară):**
-- 200-MIDR-2026 — Program de stat pentru înregistrarea ~12.580 blocuri locative ca condominii (2026–2028); 15,85 mln. lei; elaborat de MIDR + AGCC + IP CBI; transmis Parlamentului
-- 83-MIDR-2026 — Proiect de lege modificare CUC 434/2023: facilitarea înregistrării construcțiilor, eliminarea restricțiilor temporale, asimilarea căsuțelor pomicole la case individuale (art. 387)
-
-**Termen critic confirmat:**
-- 30.04.2026 (mâine): Consultări publice reevaluare masivă 6 mln. bunuri imobile + finalizare aerofotografiere AGCC
-- 31.05.2026: Termen LP 187/2022 — drept înregistrare cameră izolată cu nr. cadastral distinct (statut abrogare prin LP 147 neconfirmat)
-
-**Acte modificate:** niciuna nou detectată față de sesiunea precedentă
-**Acte abrogate:** niciuna nou detectată
+**Acte noi identificate (2 proiecte in faza parlamentara):**
+- 200-MIDR-2026 - Program de stat pentru inregistrarea ~12.580 blocuri locative ca condominii
+- 83-MIDR-2026 - Proiect de lege modificare CUC 434/2023
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-20-modificari-legislative.md`
 
 ---
 
-## [2026-04-27] monitor | Modificări legislative detectate
+## [2026-04-27] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-04-20 → 2026-04-27. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, mass-media moldovenească.
+Perioada acoperita: 2026-04-20 -> 2026-04-27.
 
 **Acte noi adoptate (1):**
-- Lege amalgamare voluntară UAT (adoptată Parlament 24.04.2026, nr. oficial nepublicat) — elimină limita 25 km, reduce birocrația, simplifică alegerea centrului administrativ; impact cadastral: actualizare RSUATA + RBI, redelimitare hotare UAT, 298 comunități în proces
-
-**Procese critice în derulare:**
-- Consultări publice reevaluare 6 mln bunuri imobile — termen 30.04.2026 (expiră în 3 zile); validare modele oct. 2026; valori noi în vigoare 01.01.2027
-- Aerofotografiere AGCC finalizată 30.04.2026 — ortoimagini actualizate, nepublicate încă
-- LP 147-MIDR-2026 (privatizare locuințe, promulgare în așteptare); 200-MIDR-2026 (condominii); 83-MIDR-2026 (CUC 434) — în faze parlamentare
-
-**Acte modificate:** niciuna detectată
-**Acte abrogate:** niciuna detectată
+- Lege amalgamare voluntara UAT (adoptata Parlament 24.04.2026)
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-04-27-modificari-legislative.md`
 
 ---
 
-## [2026-05-11] monitor | Modificări legislative detectate
+## [2026-05-11] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-04-27 → 2026-05-11. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe gov.md, legis.md, monitorul.gov.md, mass-media moldovenească.
+Perioada acoperita: 2026-04-27 -> 2026-05-11.
 
-**Procese operaționale noi (fără act normativ separat):**
-- Faza 2 reevaluare masivă imobiliară (comerciale/industriale) — lansată 01.05.2026 de AGCC + IP CBI; consultări publice pe geodata.gov.md până la 31.07.2026; 6.436 cereri în faza 1 (rezidențiale)
+**Procese operationale noi:** Faza 2 reevaluare masiva imobiliara (comerciale/industriale) - lansata 01.05.2026.
 
-**Acte legislative în curs de promulgare (neconfirmate oficial):**
-- LP 147-MIDR-2026 — Prelungire privatizare locuințe 31.05.2026 → 31.05.2029; interdicție butelii gaz în blocuri; adoptat Parlament ~24.04.2026; nr. oficial neconfirmat la 11.05.2026
-- Lege amalgamare UAT — simplificare voluntară, adoptată 24.04.2026; nr. oficial neconfirmat
-- Modificare LP 187/2022 condominii (200-MIDR-2026) — praguri noi semnături asociații proprietari; stadiu parlamentar incert
-
-**Termene critice imediate:** 31.05.2026 (privatizare + camere izolate LP 187/2022); 31.07.2026 (reevaluare comerciala); 01.01.2027 (valori cadastrale noi)
-
-**Acte modificate:** niciuna confirmată
-**Acte abrogate:** niciuna confirmată
+**Acte in curs de promulgare:** LP 147-MIDR-2026; Lege amalgamare UAT; 200-MIDR-2026
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`
 
 ---
 
-## [2026-05-11] monitor | Modificări legislative detectate — sesiunea 2 (actualizare raport)
+## [2026-05-11] monitor | Modificari legislative detectate - sesiunea 2 (actualizare raport)
 
-Sesiune suplimentară de monitorizare; acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe parlament.md, moldpres.md, okeyimobil.md, news-pravda.com, particip.gov.md.
-
-**Act nou identificat față de sesiunea 1:**
-- **LP 40/2026** — Legea privind activitatea agenților imobiliari: adoptată 26.03.2026, publicată în MO, intrare în vigoare 23.01.2027; creează Registrul agenților imobiliari integrat în SI AGCC; absent din wiki și din sesiunile anterioare de monitorizare
-
-**Identificator proiect confirmat:**
-- 189-CS-2026 = numărul de proiect al Legii simplificării amalgamării UAT (adoptată 24.04.2026; nr. de lege promulgat neconfirmat)
-
-**Acte modificate:** niciuna nouă
-**Acte abrogate:** niciuna nouă
+**Act nou identificat:** LP 40/2026 - Legea privind activitatea agentilor imobiliari (adoptata 26.03.2026, in vigoare 23.01.2027)
 
 Raport actualizat: `wiki/synthesis/monitoring/2026-05-11-modificari-legislative.md`
 
 ---
 
-## [2026-05-18] monitor | Modificări legislative detectate
+## [2026-05-18] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-05-11 → 2026-05-18. Acces direct agcc.gov.md, monitorul.gov.md, gov.md blocat (HTTP 403); surse: WebSearch pe moldpres.md, news.yam.md, ziar.md, okeyimobil.md, presedinte.md (indirecte).
+Perioada acoperita: 2026-05-11 -> 2026-05-18.
 
 **Acte noi identificate (2):**
-- **LP 147/2026** (Decret 603-X, 07.05.2026) — Lege ajustare cadru normativ locuințe: privatizare extinsă 31.05.2026 → 31.05.2029; interdicție butelii gaz în blocuri; **abrogă art. 88 alin. (7) LP 187/2022 condominiu** — elimină termenul 31.05.2026 pentru înregistrare cameră izolată cu nr. cadastral distinct
-- **OAGCC Ordin 42/2026 (29.04.2026)** — Modelul de evaluare imobile comerciale/industriale + terenuri aferente (Faza 2 reevaluare masivă); consultare publică 01.05–31.07.2026 pe geodata.gov.md
+- **LP 147/2026** (Decret 603-X, 07.05.2026) - abroga art. 88 alin. (7) LP 187/2022
+- **OAGCC Ordin 42/2026 (29.04.2026)** - Modelul de evaluare imobile comerciale/industriale (Faza 2)
 
-**Procese operaționale noi:**
-- Faza 2 reevaluare masivă (comerciale/industriale) — lansată 01.05.2026; termen consultare 31.07.2026; valori finale: 01.01.2027
-- Aerocartografiere AGCC prelungită până în iunie 2026 (anterior: 30.04.2026; motiv: condiții meteo)
-
-**Acte modificate:** LP 187/2022 art. 88 alin. (7) — abrogat prin LP 147/2026
-**Acte abrogate:** niciun act tehnic cadastral
+**Acte modificate:** LP 187/2022 art. 88 alin. (7) - abrogat prin LP 147/2026
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-18-modificari-legislative.md`
 
 ---
 
-## [2026-05-25] monitor | Modificări legislative detectate
+## [2026-05-25] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-05-18 → 2026-05-25. Acces direct agcc.gov.md blocat (HTTP 403); surse: WebSearch pe presedinte.md, moldpres.md, moldova1.md, particip.gov.md, logos-pres.md.
+Perioada acoperita: 2026-05-18 -> 2026-05-25.
 
-**Acte noi identificate (1):**
-- **Lege modificare LP 187/2022 condominiu** (Decret prezidențial nr. 612-X, 14.05.2026) — proiect 200-MIDR-2026; adoptată de Parlament (65 voturi); introduce praguri noi de vot pentru APC (1/2 sau 1/4 din proprietari); nr. oficial al legii neconfirmat
+**Acte noi identificate (1):** Lege modificare LP 187/2022 condominiu (Decret 612-X, 14.05.2026)
 
-**Acte modificate (1):**
-- **LP 187/2022** — a doua modificare în mai 2026 (prima: LP 147/2026 privind camerele izolate; a doua: prezenta lege privind regulile de vot APC)
-
-**Acte abrogate:** niciun act tehnic cadastral nou
-
-**Procese în derulare:**
-- Aerocartografiere AGCC prelungită până în iunie 2026
-- Reevaluare masivă imobile comerciale/industriale — consultări până la 31.07.2026
-- Lege amalgamare UAT (189-CS-2026) — confirmată publicată în MO
+**Acte modificate (1):** LP 187/2022
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-05-25-modificari-legislative.md`
 
 ---
 
-## [2026-06-01] monitor | Modificări legislative detectate
+## [2026-06-01] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-05-25 → 2026-06-01. Acces direct agcc.gov.md, monitorul.gov.md, legis.md blocat (HTTP 403); surse: WebSearch pe moldpres.md, ziar.md, telegraph.md, tv8.md, news.yam.md, okeyimobil.md, gov.md.
+Perioada acoperita: 2026-05-25 -> 2026-06-01.
 
-**Acte noi identificate:** niciun act nou publicat în această perioadă identificat.
+**Actualizari de statut:** LP 70/2026 (30.04.2026, MO 21.05.2026) - numar oficial confirmat.
 
-**Actualizări de statut:**
-- **LP 70/2026** (30.04.2026, MO 21.05.2026) — număr oficial confirmat pentru legea de modificare LP 187/2022 condominiu (praguri vot APC); sesiunile anterioare o înregistrau fără număr.
-
-**Termen expirat cu impact cadastral:**
-- **31.05.2026** — termen înregistrare camere izolate cu nr. cadastral distinct (LP 187/2022 art. 88 alin. (7), abrogat prin LP 147/2026); expirat fără impact practic datorită abrogării anterioare.
-
-**Procese în derulare:**
-- Faza 2 reevaluare masivă (comerciale/industriale) — consultare 01.05–31.07.2026 (OAGCC 42/2026)
-- Aerocartografiere AGCC prelungită până în iunie 2026
-- Lege amalgamare voluntară UAT (189-CS-2026) — publicată MO Nr. 269 din 27.05.2026, în vigoare 27.05.2026
-
-**Acte modificate:** niciuna nouă față de sesiunea precedentă
-**Acte abrogate:** niciuna nouă
+Lege amalgamare voluntara UAT (189-CS-2026) - publicata MO Nr. 269 din 27.05.2026.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-06-01-modificari-legislative.md`
 
-## [2026-06-08] monitor | Modificări legislative detectate
+## [2026-06-08] monitor | Modificari legislative detectate
 
-Acces direct agcc.gov.md blocat (HTTP 403 / host_not_allowed), la fel ca în sesiunile anterioare; comparația s-a bazat pe dovezi indirecte din WebSearch.
+Acte candidate, posibil netrackate in index (necesita confirmare manuala):
+- HG 470/2025, HG 494/2022, LP 1308/1997, LP 121/2007, Ordin AGCC 61/2023
 
-**Acte candidate, posibil netrackate în index** (necesită confirmare manuală):
-- HG 470/2025 — accederea AGCC la TEGOVA și Alianța SPACE4GEO
-- HG 494/2022 — aderarea (fostei ARFC) la Consiliul Standardelor Internaționale de Evaluare (IVSC)
-- LP 1308/1997 — prețul normativ și vânzarea-cumpărarea pământului (menționat în wiki ca înlocuit prin CF 22/2024, dar fără intrare proprie în index)
-- LP 121/2007 — administrarea și deetatizarea proprietății publice
-- Ordin AGCC 61/2023 — grupuri de lucru INDS
-
-**Dezvoltare instituțională neclarificată:** reorganizarea INGEOCAD (Întreprindere de Stat → Instituție Publică), efectivă 01.07.2026, fondator AGCC — număr HG neidentificat; entitatea nu apare deloc în wiki.
-
-**Acte modificate / abrogate:** nimic nou identificat față de sesiunea din 2026-06-01.
+Dezvoltare institutionala: reorganizarea INGEOCAD (IS -> IP), efectiva 01.07.2026, fondator AGCC.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-06-08-modificari-legislative.md`
 
 ---
 
-## [2026-06-15] monitor | Verificare nereușită — acces blocat la agcc.gov.md
+## [2026-06-15] monitor | Verificare nereusita - acces blocat la agcc.gov.md
 
-Verificarea automată a actelor normative de pe `agcc.gov.md/content/legislatia` nu a putut fi efectuată: hostul `agcc.gov.md` nu este permis de politica de rețea (egress allowlist) a mediului de execuție, cererea fiind respinsă cu `403 host_not_allowed` la nivel de proxy, nu de la server.
-
-**Acțiune necesară:** adăugarea `agcc.gov.md` în allowlist-ul de rețea al mediului, pentru ca verificările viitoare să poată accesa sursa.
-
-Nu s-a comparat conținutul wiki-ului cu sursa în această sesiune.
+Verificarea automata a actelor normative de pe `agcc.gov.md/content/legislatia` nu a putut fi efectuata: hostul `agcc.gov.md` nu este permis de politica de retea (egress allowlist).
 
 ---
 
-## [2026-06-22] monitor | Fără modificări confirmate — acces direct la agcc.gov.md blocat persistent
+## [2026-06-22] monitor | Fara modificari confirmate - acces direct la agcc.gov.md blocat persistent
 
-Accesul direct la `agcc.gov.md/content/legislatia` a fost din nou respins de mediul sandbox (`403 host_not_allowed`), la fel ca în toate sesiunile din 2026-05-25 încoace, inclusiv pentru proxy-uri alternative (r.jina.ai, allorigins.win, translate.goog, archive.org) — toate blocate la nivel de rețea, nu de server.
+Fallback prin WebSearch. Nu s-au identificat acte noi confirmate fata de raportul din 2026-06-08.
 
-S-a folosit fallback prin WebSearch (interogări multiple pe agcc.gov.md, gov.md, monitorul.gov.md). Nu s-au identificat acte noi confirmate față de raportul din 2026-06-08.
-
-**Candidați neconfirmați, reportați din 2026-06-08 (necesită verificare manuală):**
-- HG 470/2025 — accederea AGCC la TEGOVA și SPACE4GEO
-- HG 494/2022 — aderarea (fostei ARFC) la IVSC
-- LP 1308/1997 — prețul normativ și vânzarea-cumpărarea pământului
-- LP 121/2007 — administrarea și deetatizarea proprietății publice
-- Ordin AGCC 61/2023 — grupuri de lucru INDS
-
-**Atenție — termen apropiat:** reorganizarea INGEOCAD (Întreprindere de Stat → Instituție Publică, fondator AGCC) intră în vigoare **01.07.2026** (în 9 zile). Numărul HG-ului care aprobă reorganizarea nu a putut fi identificat din surse indirecte; INGEOCAD nu apare în wiki. Recomandare: verificare manuală prioritară înainte de această dată.
-
-**Recomandare generală:** blocarea accesului la agcc.gov.md persistă de aprox. 4 săptămâni; verificările automate prin WebSearch nu permit confirmarea/infirmarea directă a candidaților de mai sus. Necesită fie deblocarea hostului în allowlist-ul de rețea, fie verificare manuală periodică.
+**Atentie:** reorganizarea INGEOCAD intra in vigoare 01.07.2026 (in 9 zile). Nr. HG neidentificat.
 
 ---
 
-## [2026-06-29] monitor | Proiect 342/AGCC/2026 identificat — rezolvă parțial gap-ul INGEOCAD
+## [2026-06-29] monitor | Proiect 342/AGCC/2026 identificat - rezolva partial gap-ul INGEOCAD
 
-Perioadă acoperită: 2026-06-22 → 2026-06-29. Acces direct agcc.gov.md, particip.gov.md, gov.md (pagini ședințe + PDF-uri proiecte) blocat persistent (HTTP 403 host_not_allowed), de 5+ săptămâni. Surse: WebSearch (fragmente indexate).
+Perioada acoperita: 2026-06-22 -> 2026-06-29.
 
-**Act nou identificat (proiect, neconfirmat ca HG finală):**
-- **Proiect 342/AGCC/2026** — modifică HG 959/2023 (organizarea AGCC); restructurare domeniu geodezie-cartografie-cadastru; aprobat într-o ședință de guvern recentă (coincide cu ședința din 24.06.2026). Conține baza legală pentru reorganizarea **INGEOCAD** (Întreprindere de Stat → Instituție Publică, fondator AGCC), efectivă din 01.07.2026 — gap semnalat încă din sesiunea 2026-06-08. Numărul final al HG (Monitorul Oficial) neconfirmat încă.
-
-**Proces operațional:** termen contestații evaluare case rurale extins 30.04.2026 → 31.07.2026 (alinia cu Faza 2 comercial/industrial).
-
-**Acte modificate:** HG 959/2023 — posibil, prin proiectul 342/AGCC/2026 (neconfirmat definitiv).
-**Acte abrogate:** niciuna nouă.
-
-**Atenție — termen critic:** reorganizarea INGEOCAD intră în vigoare în 2 zile (01.07.2026); numărul HG-ului rămâne neconfirmat din surse indirecte. Recomandare: verificare manuală prioritară înainte de această dată.
+**Act nou identificat (proiect):** Proiect 342/AGCC/2026 - modifica HG 959/2023; baza legala pentru reorganizarea INGEOCAD (IS -> IP, fondator AGCC), efectiva din 01.07.2026.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-06-29-modificari-legislative.md`
 
 ---
 
-## [2026-07-06] monitor | Reorganizarea INGEOCAD confirmată efectivă 01.07.2026; lege condominii adoptată
+## [2026-07-06] monitor | Reorganizarea INGEOCAD confirmata efectiva 01.07.2026; lege condominii adoptata
 
-Perioadă acoperită: 2026-06-29 → 2026-07-06. Acces direct agcc.gov.md, gov.md, monitorul.gov.md blocat persistent (HTTP 403); surse: WebSearch (fragmente indexate).
+Perioada acoperita: 2026-06-29 -> 2026-07-06.
 
-**Act confirmat efectiv (1):**
-- **Proiect 342/AGCC/2026 → HG (nr. neconfirmat)** — reorganizarea IS INGEOCAD în IP INGEOCAD sub fondatorul AGCC, efectivă 01.07.2026; modifică HG 959/2023; rezolvă gap-ul semnalat din sesiunea 2026-06-08
+**Act confirmat efectiv (1):** Proiect 342/AGCC/2026 -> HG (nr. neconfirmat) - reorganizarea IS INGEOCAD in IP INGEOCAD sub fondatorul AGCC.
 
-**Act nou adoptat (1, nr. oficial neconfirmat):**
-- **200-MIDR-2026** — lege modificare LP 187/2022 condominiu: e-Condominiu, praguri vot APC, acces fonduri europene 1,5 mld. lei; adoptată Parlament ~iulie 2026
-
-**Termen critic:** 31.07.2026 — ultim termen contestații reevaluare masivă (Faza 1 extinsă + Faza 2 comerciale/industriale)
+**Act nou adoptat (1, nr. oficial neconfirmat):** 200-MIDR-2026 - lege modificare LP 187/2022 condominiu: e-Condominiu.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-06-modificari-legislative.md`
 
 ---
 
-## [2026-07-13] monitor | Fără modificări confirmate — acces direct la agcc.gov.md blocat persistent
+## [2026-07-13] monitor | Fara modificari confirmate - acces direct la agcc.gov.md blocat persistent
 
-Perioadă acoperită: 2026-07-06 → 2026-07-13. Acces direct agcc.gov.md blocat (HTTP 403 host_not_allowed), la fel ca în toate sesiunile anterioare (7+ săptămâni consecutiv); surse: WebSearch (fragmente indexate de pe gov.md, agora.md, tvrmoldova.md, moldpres.md, news-pravda.com).
+Perioada acoperita: 2026-07-06 -> 2026-07-13.
 
-**Acte noi confirmate:** niciuna pentru perioada 2026-07-06 → 2026-07-13.
+**Candidat neconfirmat:** Proiect 475-AGCC-2026.
 
-**Candidat neconfirmat (de verificat manual):**
-- **Proiect 475-AGCC-2026** — proiect de HG apărut în dosarul ședințelor de guvern (mai 2026, gov.md); conținut și statut adoptat necunoscute din surse indirecte.
-
-**Procese operaționale în derulare:**
-- Faza 2 reevaluare masivă (comerciale/industriale) — termen contestații: 31.07.2026 (18 zile); 6.436 contestații înregistrate în Faza 1; valori finale intră în vigoare 01.01.2027
-- **200-MIDR-2026** (lege condominiu e-Condominiu) — menționat în surse ca adoptat de Parlament în iulie 2026; număr oficial și decret prezidențial neconfirmate
-- Reorganizarea IS INGEOCAD → IP INGEOCAD (fondator AGCC) — efectivă 01.07.2026 (confirmat sesiunea 2026-07-06)
-
-**Acte modificate:** niciuna confirmată față de sesiunea precedentă.
-**Acte abrogate:** niciuna confirmată față de sesiunea precedentă.
-
-**Atenție — termen critic iminent:** 31.07.2026 — termen final contestații reevaluare masivă Faza 2 (18 zile).
-
-**Recomandare:** blocarea accesului la agcc.gov.md persistă de 7+ săptămâni; verificare manuală directă recomandată pentru 475-AGCC-2026 și 200-MIDR-2026 (nr. oficial).
+**Atentie:** 31.07.2026 - termen final contestatii reevaluare masiva Faza 2.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-13-modificari-legislative.md`
 
 ---
 
-## [2026-07-13] monitor | Sesiunea 2 — clarificări suplimentare + raport creat
+## [2026-07-13] monitor | Sesiunea 2 - clarificari suplimentare + raport creat
 
-Sesiune suplimentară; aceleași surse ca sesiunea 1 (WebSearch pe gov.md, logos-pres.md, okeyimobil.md, tvrmoldova.md, agora.md).
-
-**Clarificări față de sesiunea 1:**
-- **HG 475-AGCC-2026** — conținut confirmat: restructurare geodezie-cartografie-cadastru la AGCC + 10 posturi noi (~1.876,9 mii lei/an); reorganizare IS INGEOCAD → IP INGEOCAD fondator AGCC, efectiv 01.07.2026. Nr. oficial MO în continuare neconfirmat.
-- **LP 70/2026 art. 3 alin. (2)** — intră în vigoare 21.08.2026 (3 luni de la publicare în MO 213-216 din 21.05.2026); obligă APC multi-condominiu să semneze acord cu noile asociații în 30 de zile.
-- **LP 40/2026 agenți imobiliari** — confirmat: registru agenți imobiliari integrat în SI AGCC; intrare în vigoare 9 luni de la publicare (~dec. 2026 / ian. 2027).
-
-**Termene critice actualizate:** 31.07.2026 (contestații reevaluare) și 21.08.2026 (LP 70/2026 art. 3 alin. (2)).
+**Clarificari:**
+- HG 475-AGCC-2026 - restructurare geodezie-cartografie-cadastru la AGCC + 10 posturi noi; reorganizare IS INGEOCAD -> IP INGEOCAD. Nr. MO neconfirmat.
+- LP 70/2026 art. 3 alin. (2) - intra in vigoare 21.08.2026.
+- LP 40/2026 agenti imobiliari - in vigoare 9 luni de la publicare (~ian. 2027).
 
 ---
 
-## [2026-07-20] monitor | Modificări legislative detectate
+## [2026-07-20] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-07-13 → 2026-07-20. Acces direct agcc.gov.md blocat (HTTP 403, 8+ săptămâni); surse: WebSearch pe gov.md, agcc.gov.md (fragmente indexate), justitietransparenta.md, logos-pres.md, moldova1.md, bani.md, ipcbi.gov.md.
+Perioada acoperita: 2026-07-13 -> 2026-07-20.
 
-**Acte noi identificate (3, confirmate din pagina de legislație AGCC):**
-- **OAGCC 57/2026** — Ghidul în evaluare: Evaluarea proprietăților generatoare de venituri (hoteluri, centre comerciale, fabrici, logistică); completează OAGCC 59/2025 și SEV 100–233
-- **OAGCC 67/2026** — Instrucțiunea privind conținutul și modul de elaborare a planului părții de folosință a bunului imobil (proprietate comună)
-- **HG 28/2026** — Codul-cadru de etică al profesiei de evaluator de bunuri imobile
-
-**Clarificări:**
-- IP INGEOCAD (reorganizare IS → IP, fondator AGCC) — confirmat din ședința de guvern 01.07.2026; HG nr. MO neconfirmat
-- 200-MIDR-2026 (lege e-Condominiu) — adoptată Parlament iulie 2026; nr. oficial LP și MO neconfirmate la 20.07.2026
-- PDSE: serviciu Certificat RBI actualizat 10.07.2026 (livrare la adresă, non-normativ)
-- Proiect lege extindere acces avocați la RBI (stadiu elaborare AGCC + IP CBI)
-
-**Termen critic iminent:** 31.07.2026 (11 zile) — expiră contestații reevaluare masivă Faza 1+2.
+**Acte noi identificate (3, confirmate din pagina de legislatie AGCC):**
+- **OAGCC 57/2026** - Ghidul in evaluare: Evaluarea proprietatilor generatoare de venituri
+- **OAGCC 67/2026** - Instructiunea privind planul partii de folosinta a bunului imobil (proprietate comuna)
+- **HG 28/2026** - Codul-cadru de etica al profesiei de evaluator de bunuri imobile
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-20-modificari-legislative.md`
 
 ---
 
-## [2026-07-27] monitor | Modificări legislative detectate
+## [2026-07-27] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-07-20 → 2026-07-27. Acces direct agcc.gov.md blocat (HTTP 403, 9+ săptămâni); surse: WebSearch pe agcc.gov.md (fragmente indexate), telegraph.md, news.yam.md, gov.md, bani.md, jurnal.md, monitorul.gov.md.
+Perioada acoperita: 2026-07-20 -> 2026-07-27.
 
-**Act nou identificat (1 — inițiere proiect, nu act normativ final):**
-- **AGCC anunț 23.07.2026** — Inițiere elaborare ordine AGCC de modificare a modelelor de evaluare imobiliară pentru: apartamente în blocuri și case de locuit, garaje individuale/cooperative/locuri de parcare, loturi pomicole. Motivul: omisiuni și inconsecvențe tehnico-metodologice identificate după aplicarea OAGCC 49/2025, OAGCC 77/2025 și modelelor rezidențiale. Consultare publică — termen neprecizat.
-
-**Termen critic iminent:** 31.07.2026 (4 zile) — expiră termenul final al contestațiilor reevaluare masivă Faza 1 (case rurale, prelungit) + Faza 2 (comerciale/industriale).
-
-**Acte modificate:** niciuna confirmată față de sesiunea precedentă
-**Acte abrogate:** niciuna confirmată
+**Act nou identificat:** AGCC anunt 23.07.2026 - Initiere elaborare ordine AGCC de modificare a modelelor de evaluare imobiliara.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-07-27-modificari-legislative.md`
 
 ---
 
-## [2026-08-03] monitor | Modificări legislative detectate
+## [2026-08-03] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-07-27 → 2026-08-03. Acces direct agcc.gov.md blocat (HTTP 403, 10+ săptămâni consecutiv); surse: WebSearch pe telegraph.md, ziar.md, jurnaltv.md, agora.md, bani.md, okeyimobil.md, stiri.md, moldova1.md, ziarulnational.md, justitietransparenta.md, ipcbi.gov.md, agcc.gov.md (fragmente indexate).
+Perioada acoperita: 2026-07-27 -> 2026-08-03.
 
-**Acte noi confirmate:** niciun act normativ cadastral nou publicat în această perioadă (vacanță parlamentară august).
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat (vacanta parlamentara august).
 
-**Termen expirat (31.07.2026):** contestații reevaluare masivă — 7.429 depuse (Faza 1+2); examinare în toamnă 2026; valori finale 01.01.2027.
-
-**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2) intră în vigoare (obligație APC multi-condominiu).
-
-**Procese în derulare:** 200-MIDR-2026 (e-Condominiu) adoptat, nr. LP neconfirmat; AGCC inițiază modificare modele evaluare OAGCC 49/77 (consultare publică); proiect lege acces avocați RBI în elaborare; HG 475-AGCC-2026 (INGEOCAD) nr. MO neconfirmat.
-
-**Acte modificate:** niciuna nouă.
-**Acte abrogate:** niciuna nouă.
+**Termen expirat (31.07.2026):** contestatii reevaluare masiva - 7.429 depuse (Faza 1+2).
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-03-modificari-legislative.md`
 
 ---
 
-## [2026-08-10] monitor | Modificări legislative detectate
+## [2026-08-10] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-08-03 → 2026-08-10. Acces direct agcc.gov.md blocat (HTTP 403, 11+ săptămâni consecutiv); surse: WebSearch pe gov.md, privesc.eu, rlive.md, news.yam.md, unimedia.info, bani.md, okeyimobil.md, logos-pres.md.
+Perioada acoperita: 2026-08-03 -> 2026-08-10.
 
-**Acte noi confirmate:** niciun act normativ cadastral nou publicat în Monitorul Oficial în această perioadă.
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat in Monitorul Oficial.
 
-**Eveniment semnificativ:** ședința Guvernului din 05.08.2026 a aprobat un proiect HG de modificare a HG 959/2023 (organizarea AGCC + restructurare sector). Nr. oficial neconfirmat — de verificat manual.
-
-**Candidat neconfirmat:** HG 221/2026 (Registrul rețelelor edilitare, LP 290/2024) — menționat în fragmente indexate, neconfirmat direct.
-
-**Termen critic iminent:** 21.08.2026 — LP 70/2026 art. 3 alin. (2) intră în vigoare (obligație APC multi-condominiu, 11 zile).
-
-**Acte modificate:** niciuna nouă.
-**Acte abrogate:** niciuna nouă.
+**Eveniment semnificativ:** sedinta Guvernului din 05.08.2026 a aprobat un proiect HG de modificare a HG 959/2023. Nr. oficial neconfirmat.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-10-modificari-legislative.md`
 
 ---
 
-## [2026-08-17] monitor | Modificări legislative detectate
+## [2026-08-17] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-08-10 → 2026-08-17. Acces direct agcc.gov.md blocat (HTTP 403, 11+ săptămâni consecutiv); surse: WebSearch pe privesc.eu, rlive.md, telegraph.md, monitorul.fisc.md, logos-pres.md, bani.md, legis.md, ipcbi.gov.md.
+Perioada acoperita: 2026-08-10 -> 2026-08-17.
 
-**Acte noi confirmate:** niciun act normativ cadastral nou publicat în Monitorul Oficial în această perioadă (vacanță parlamentară august).
+**Acte noi confirmate:** niciun act normativ cadastral nou publicat in Monitorul Oficial (vacanta parlamentara august).
 
-**Termen critic iminent — 21.08.2026 (4 zile):** LP 70/2026 art. 3 alin. (2) intră în vigoare — obligație APC multi-condominiu să semneze cu noile asociații în 30 de zile.
-
-**Ședința Guvernului 12.08.2026:** aprobată hotărâre actualizare cadru normativ cadastral (protecție date personale + acces avocați RBI); nr. HG neconfirmat.
-
-**HG 221/2026** (SI Registrul rețelelor edilitare / LP 290/2024) — confirmat parțial; nr. MO neconfirmat.
-
-**Candidați persistenți neconfirmați:** HG 475-AGCC-2026 (INGEOCAD, nr. MO); LP 200-MIDR-2026 (e-Condominiu, nr. oficial).
-
-**Reevaluare masivă:** 7.429+ contestații; validare oct. 2026; valori noi 01.01.2027.
-
-**Acte modificate:** niciuna nouă.
-**Acte abrogate:** niciuna nouă.
+**Sedinta Guvernului 12.08.2026:** aprobata hotarare actualizare cadru normativ cadastral (protectie date personale + acces avocati RBI); nr. HG neconfirmat.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-17-modificari-legislative.md`
 
 ---
 
-## [2026-08-24] monitor | LP 70/2026 art. 3 alin. (2) intrat în vigoare 21.08.2026
+## [2026-08-24] monitor | LP 70/2026 art. 3 alin. (2) intrat in vigoare 21.08.2026
 
-Perioadă acoperită: 2026-08-17 → 2026-08-24. Acces direct agcc.gov.md blocat (HTTP 403, 12+ săptămâni consecutiv); surse: WebSearch pe gov.md, agcc.gov.md (fragmente), legis.md, moldpres.md, agora.md, bani.md, justitietransparenta.md.
+Perioada acoperita: 2026-08-17 -> 2026-08-24.
 
-**Eveniment legislativ confirmat:**
-- **LP 70/2026 art. 3 alin. (2)** — intrat în vigoare **21.08.2026** (3 luni de la publicare MO 213-216/21.05.2026); APC multi-condominiu trebuie să semneze acord cu noua asociație în 30 de zile (termen: 21.09.2026)
-
-**Acte noi confirmate:** niciun act normativ cadastral nou publicat în această perioadă (vacanță parlamentară).
-
-**Candidați persistenți neconfirmați:** HG modificare HG 959/2023 (ședința 12.08.2026, nr. neconf.); HG 221/2026 (retele edilitare); LP 200-MIDR-2026 (e-Condominiu, nr. oficial); HG 475-AGCC-2026 (INGEOCAD, nr. MO).
-
-**Termen critic următor:** 21.09.2026 — termen APC multi-condominiu (LP 70/2026 art. 3 alin. (2)).
+**Eveniment legislativ confirmat:** LP 70/2026 art. 3 alin. (2) intrat in vigoare 21.08.2026; APC multi-condominiu: termen 21.09.2026.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-24-modificari-legislative.md`
 
 ---
 
-## [2026-08-31] monitor | Modificări legislative detectate
+## [2026-08-31] monitor | Modificari legislative detectate
 
-Perioadă acoperită: 2026-08-24 → 2026-08-31. Acces direct agcc.gov.md blocat (HTTP 403, 12+ săptămâni consecutiv); surse: WebSearch pe gov.md (ședințe 19.08, 26.08.2026), rlive.md, telegraph.md, monitorul.gov.md (fragmente), legis.md (fragmente).
+Perioada acoperita: 2026-08-24 -> 2026-08-31. Acces direct agcc.gov.md blocat (HTTP 403, 12+ saptamani consecutiv); surse: WebSearch pe gov.md (sedinte 19.08, 26.08.2026), rlive.md, telegraph.md, monitorul.gov.md (fragmente), legis.md (fragmente).
 
 **Act confirmat (1):**
-- **HG 221/2026** (29.04.2026, MO 198–201) — SI Registrul de evidență a rețelelor edilitare (LP 290/2024); candidat neconfirmat din sesiunile 2026-08-10 / 2026-08-17, acum confirmat
+- **HG 221/2026** (29.04.2026, MO 198-201) - SI Registrul de evidenta a retelelor edilitare (LP 290/2024)
 
 **Acte modificate (1, nr. MO neconfirmat):**
-- **HG 463/2026** (19.08.2026) — modificare HG 161/2019 privind lista bunuri imobile proprietate publică de stat
+- **HG 463/2026** (19.08.2026) - modificare HG 161/2019 privind lista bunuri imobile proprietate publica de stat
 
-**Candidați persistenți:** HG modificare HG 959/2023 (ședința 05.08 + 12.08.2026, nr. neconf.); LP 200-MIDR-2026 (e-Condominiu, nr. LP); HG 475-AGCC-2026 (INGEOCAD, nr. MO)
+**Candidati persistenti:** HG modificare HG 959/2023 (sedinta 05.08 + 12.08.2026, nr. neconf.); LP 200-MIDR-2026 (e-Condominiu, nr. LP); HG 475-AGCC-2026 (INGEOCAD, nr. MO)
 
-**Termen critic următor:** 21.09.2026 — APC multi-condominiu (LP 70/2026 art. 3 alin. (2))
+**Termen critic urmator:** 21.09.2026 - APC multi-condominiu (LP 70/2026 art. 3 alin. (2))
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-08-31-modificari-legislative.md`
+
+---
+
+## [2026-09-07] monitor | Modificari legislative detectate
+
+Perioada acoperita: 2026-08-31 -> 2026-09-07. Acces direct agcc.gov.md blocat (HTTP 403, 14+ saptamani consecutiv); surse: WebSearch pe gov.md, agcc.gov.md (fragmente indexate), legis.md (fragmente), privesc.eu, bani.md, logos-pres.md.
+
+**Acte noi candidate (detectate, necesita confirmare manuala):**
+- **OAGCC 79/2026** (08.07.2026) - Cerinte tehnice pentru produse cartografice si seturi de date digitale (neprezent in wiki)
+- **OAGCC 91/2026** (14.08.2026) - Standarde ocupationale: Tehnician in evaluarea bunurilor imobile + Tehnician in cadastru (neprezent in wiki)
+
+**Act conex cu impact indirect:**
+- **LP 195/2024 + LP 160/2026** - Noua lege protectia datelor cu caracter personal (GDPR), in vigoare 23.08.2026; impact asupra accesului la datele RBI
+
+**Sedinta Guvernului 02.09.2026:** 21 de proiecte, niciun act cadastral specific identificat.
+
+**Candidati persistenti neconfirmati:** HG modificare HG 959/2023 (nr. MO); LP 200-MIDR-2026 / e-Condominiu (nr. LP); HG 475-AGCC-2026 / INGEOCAD (nr. MO)
+
+**Termen critic urmator:** 21.09.2026 - APC multi-condominiu (LP 70/2026 art. 3 alin. (2))
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-09-07-modificari-legislative.md`
