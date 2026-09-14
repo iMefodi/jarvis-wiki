@@ -440,3 +440,20 @@ Perioada acoperita: 2026-08-31 -> 2026-09-07. Acces direct agcc.gov.md blocat (H
 **Termen critic urmator:** 21.09.2026 - APC multi-condominiu (LP 70/2026 art. 3 alin. (2))
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-09-07-modificari-legislative.md`
+
+---
+
+## [2026-09-14] monitor | Modificari legislative detectate
+
+Perioada acoperita: 2026-09-07 -> 2026-09-14. Acces direct agcc.gov.md blocat (HTTP 403, 15+ saptamani consecutiv); surse: WebSearch pe agcc.gov.md (fragmente indexate), ziarulnational.md, ipn.md, bani.md, gov.md, monitorul.gov.md.
+
+**Acte confirmate (2, din statut candidat neconfirmat):**
+- **OAGCC 79/2026** (08.07.2026) — Cerinte tehnice ortoimagini si produse cartografice digitale (geodezie/INDS)
+- **OAGCC 91/2026** (14.08.2026) — Standarde ocupationale: Tehnician evaluare bunuri imobile + Tehnician cadastru
+
+**Proiect legislativ nou (prima lectura 10.09.2026):**
+- Proiect LP — modificare LP 1543/1998: acces extins RBI (avocati, succesiuni, Min. Apararii) + reparcelare terenuri (procedura noua, competente noi AGCC); urmeaza lectura a doua
+
+**Termen critic imediat:** 21.09.2026 — APC multi-condominiu (LP 70/2026 art. 3 alin. (2)), in 7 zile
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-09-14-modificari-legislative.md`
