@@ -457,3 +457,24 @@ Perioada acoperita: 2026-09-07 -> 2026-09-14. Acces direct agcc.gov.md blocat (H
 **Termen critic imediat:** 21.09.2026 — APC multi-condominiu (LP 70/2026 art. 3 alin. (2)), in 7 zile
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-09-14-modificari-legislative.md`
+
+---
+
+## [2026-09-21] monitor | Modificari legislative detectate
+
+Perioada acoperita: 2026-09-14 -> 2026-09-21. Acces direct agcc.gov.md blocat (HTTP 403, 16+ saptamani consecutiv); surse: WebSearch pe radiochisinau.md, stiri.md, rlive.md, gov.md (sedinta 16.09.2026), ipcbi.gov.md, legis.md.
+
+**Acte noi publicate MO:** niciun act cadastral/geodezic nou identificat in MO Nr. 448-461.
+
+**Proiect legislativ nou (sedinta Guvern 16.09.2026):**
+- Proiect MIDR (sec. stat V. Sipitca) — constructiile neautorizate nu vor mai putea fi inregistrate in cadastru; modificare LP 1543/1998; urmează Parlament
+
+**Schimbare operationala (01.10.2026):**
+- IP CBI reorganizare servicii teritoriale: 25+ localitati vor fi deservite de SCT proprii (nu mai prin Centre Multifunctionale ASP)
+
+**Termen critic:**
+- 21.09.2026 — APC multi-condominiu (LP 70/2026 art. 3 alin. (2)) SE IMPLINESTE ASTAZI
+
+**Candidati persistenti:** HG mod. HG 959/2023; LP 200-MIDR-2026 (e-Condominiu); HG 475-AGCC-2026 (INGEOCAD) — niciuna confirmata cu nr. MO
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-09-21-modificari-legislative.md`
