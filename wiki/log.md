@@ -478,3 +478,19 @@ Perioada acoperita: 2026-09-14 -> 2026-09-21. Acces direct agcc.gov.md blocat (H
 **Candidati persistenti:** HG mod. HG 959/2023; LP 200-MIDR-2026 (e-Condominiu); HG 475-AGCC-2026 (INGEOCAD) — niciuna confirmata cu nr. MO
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-09-21-modificari-legislative.md`
+
+---
+
+## [2026-09-28] monitor | Fara acte noi — reorganizare IP CBI efectiva 01.10.2026
+
+Perioada acoperita: 2026-09-21 -> 2026-09-28. Acces direct agcc.gov.md blocat (HTTP 403, 17+ saptamani consecutiv); surse: WebSearch pe ipcbi.gov.md, promolex.md, bani.md, voceabasarabiei.md, telegraph.md, rlive.md, ziarulnational.md.
+
+**Acte noi publicate MO:** niciun act cadastral/geodezic nou identificat.
+
+**Eveniment operational iminent (01.10.2026 — in 3 zile):** IP CBI reorganizeaza serviciile teritoriale — in 23 localitati serviciile cadastrale se vor presta EXCLUSIV la sediile SCT, nu mai la Centrele Multifunctionale ASP.
+
+**Sedinta Parlamentului 24.09.2026:** 17 proiecte votate (energie, securitate, sanatate), niciun proiect cadastral.
+
+**Candidati persistenti:** HG mod. HG 959/2023; LP 200-MIDR-2026 (e-Condominiu); HG 475-AGCC-2026 (INGEOCAD) — neconfirmate cu nr. MO (a 7-a, respectiv a 13-a saptamana).
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-09-28-modificari-legislative.md`
