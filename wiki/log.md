@@ -512,3 +512,19 @@ Perioada acoperita: 2026-09-28 -> 2026-10-05. Acces direct agcc.gov.md blocat (H
 **Candidati persistenti:** HG mod. HG 959/2023 (8 sapt.); LP 200-MIDR-2026 / e-Condominiu (13+ sapt.); HG 475-AGCC-2026 / INGEOCAD (14 sapt.) — neconfirmate cu nr. MO.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-10-05-modificari-legislative.md`
+
+---
+
+## [2026-10-12] monitor | Fara acte noi confirmate — termen reevaluare 31.10.2026 iminent
+
+Perioada acoperita: 2026-10-05 -> 2026-10-12. Acces direct agcc.gov.md blocat (HTTP 403, 19+ saptamani consecutiv); surse: WebSearch pe gov.md, ipcbi.gov.md, legis.md, particip.gov.md, monitorul.gov.md.
+
+**Acte noi publicate MO:** niciun act cadastral/geodezic nou confirmat.
+
+**Termen critic imediat (31.10.2026 — in 19 zile):** Termen final verificare/contestare reevaluare cadastrala (Faza 1+2); validare modele evaluare + posibil HG de aprobare a noilor valori pentru 01.01.2027.
+
+**Candidati persistenti:** HG mod. HG 959/2023 (~9 sapt.); LP 200-MIDR-2026 / e-Condominiu (14+ sapt.); HG 475-AGCC-2026 / INGEOCAD (~13 sapt.) — neconfirmate cu nr. MO.
+
+**Proiect detectat in consultare:** Draft OAGCC modificare OAGCC 42/2026 (coeficienti model evaluare comerciale/industriale Anexa 3) — neadoptat.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-10-12-modificari-legislative.md`
