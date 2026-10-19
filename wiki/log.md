@@ -528,3 +528,21 @@ Perioada acoperita: 2026-10-05 -> 2026-10-12. Acces direct agcc.gov.md blocat (H
 **Proiect detectat in consultare:** Draft OAGCC modificare OAGCC 42/2026 (coeficienti model evaluare comerciale/industriale Anexa 3) — neadoptat.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-10-12-modificari-legislative.md`
+
+---
+
+## [2026-10-19] monitor | Fara acte noi confirmate — termen reevaluare 31.10.2026 in 12 zile
+
+Perioada acoperita: 2026-10-12 -> 2026-10-19. Acces direct agcc.gov.md blocat (HTTP 403, 20+ saptamani consecutiv); surse: WebSearch pe gov.md, monitorul.gov.md, legis.md, particip.gov.md, moldpres.md, logos-pres.md.
+
+**Acte noi publicate MO:** niciun act cadastral/geodezic nou confirmat in fereastra 12-19 octombrie.
+
+**Candidati posibil omisi de sesiunile anterioare:**
+- **OAGCC 99/2026** (08.09.2026, MO 448-451/14.09.2026, art. 783) — modificare model evaluare garaje (amendament OAGCC 77/2025); necesita confirmare manuala
+- **HG 304/2026** — Registrul de stat al denumirilor geografice (baza LP 103/2024); mentionat pe particip.gov.md ca aprobat; necesita confirmare
+
+**Termen critic imediat (31.10.2026 — in 12 zile):** Termen final verificare reevaluare cadastrala; dupa aceasta: validare modele + posibil HG aprobare valori noi pentru 01.01.2027.
+
+**Candidati persistenti:** HG mod. HG 959/2023 (~10 sapt.); LP 200-MIDR-2026 / e-Condominiu (~26 sapt.); HG 475-AGCC-2026 / INGEOCAD (~15 sapt.); LP modificare LP 1543/1998 (~5 sapt.) — neconfirmate cu nr. MO.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-10-19-modificari-legislative.md`
