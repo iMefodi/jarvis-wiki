@@ -546,3 +546,22 @@ Perioada acoperita: 2026-10-12 -> 2026-10-19. Acces direct agcc.gov.md blocat (H
 **Candidati persistenti:** HG mod. HG 959/2023 (~10 sapt.); LP 200-MIDR-2026 / e-Condominiu (~26 sapt.); HG 475-AGCC-2026 / INGEOCAD (~15 sapt.); LP modificare LP 1543/1998 (~5 sapt.) — neconfirmate cu nr. MO.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-10-19-modificari-legislative.md`
+
+---
+
+## [2026-10-26] monitor | Modificari legislative detectate
+
+Perioada acoperita: 2026-10-19 -> 2026-10-26. Acces direct agcc.gov.md blocat (HTTP 403, 21+ saptamani consecutiv); surse: WebSearch pe legis.md, monitorul.gov.md, moldpres.md, gov.md, particip.gov.md.
+
+**Acte confirmate din statut candidat (1):**
+- **OAGCC 99/2026** (08.09.2026, MO 448-451/14.09.2026) — Modificare model evaluare garaje/locuri de parcare (modif. OAGCC 77/2025)
+
+**Acte noi identificate retrospectiv (2, neprezente in wiki):**
+- **OAGCC 98/2026** (08.09.2026, MO 448-451/14.09.2026) — Modificare model evaluare apartamente din case individuale (modif. OAGCC 53/2024)
+- **OAGCC 102/2026** (09.09.2026, MO 452-455/16.09.2026) — Modificare model evaluare apartamente blocuri locative (modif. OARFC 39/2023)
+
+**Candidat nou neconfirmat:** OAGCC (nr. necunoscut), MO 524-527/23.10.2026, art. 787 — a doua modificare a modelului apartamente blocuri?
+
+**TERMEN CRITIC (31.10.2026 — in 5 zile):** Termen final verificare/corectare reevaluare cadastrala masiva (6,5 mln. bunuri imobile). Dupa aceasta: validare modele + posibil HG pentru valori din 01.01.2027.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-10-26-modificari-legislative.md`
