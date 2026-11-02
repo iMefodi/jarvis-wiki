@@ -565,3 +565,20 @@ Perioada acoperita: 2026-10-19 -> 2026-10-26. Acces direct agcc.gov.md blocat (H
 **TERMEN CRITIC (31.10.2026 — in 5 zile):** Termen final verificare/corectare reevaluare cadastrala masiva (6,5 mln. bunuri imobile). Dupa aceasta: validare modele + posibil HG pentru valori din 01.01.2027.
 
 Raport detaliat: `wiki/synthesis/monitoring/2026-10-26-modificari-legislative.md`
+
+---
+
+## [2026-11-02] monitor | Modificari legislative detectate
+
+Perioada acoperita: 2026-10-26 -> 2026-11-02. Acces direct agcc.gov.md blocat (HTTP 403, 22+ saptamani consecutiv); surse: WebSearch pe promolex.md, ziarulnational.md, agrobiznes.md, moldpres.md, monitorul.gov.md, gov.md.
+
+**Act nou adoptat (1):**
+- **LP modificare LP 1543/1998** (votat lectura a doua 22.10.2026) — acces extins RBI (avocati, custozi, executori testamentari, Min. Apararii); competente noi AGCC; procedura noua reparcelare terenuri. Nr. oficial + data MO in asteptarea promulgarii. Intrare in vigoare: 1 luna de la publicare MO.
+
+**Termen critic expirat (31.10.2026):** termen final corectare reevaluare cadastrala masiva; noile valori intra in vigoare 01.01.2027 (HG de aprobare formala inca nepublicat).
+
+**MO 524-527/23.10.2026:** clarificat ca continand normative constructii (CP/NCM), nu ordine AGCC — candidatul din sesiunea anterioara este infirmat ca act cadastral.
+
+**Candidati persistenti:** HG mod. HG 959/2023 (~10 sapt.); LP 200-MIDR-2026 / e-Condominiu (~26 sapt.); HG 475-AGCC-2026 / INGEOCAD (~16 sapt.) — neconfirmate cu nr. MO.
+
+Raport detaliat: `wiki/synthesis/monitoring/2026-11-02-modificari-legislative.md`
